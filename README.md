@@ -11,7 +11,7 @@
 - Classification and identification of data
 - Gained more knowledge on Adobe Audition CS6
 
-**Administrator position inter @ Avient Colorant Pte. Ltd. (_Mar 2022 - May 2022)**
+**Administrator position inter @ Avient Colorant Pte. Ltd. (_Mar 2022 - May 2022_)**
 - Managed and calculated data on Excel spreadsheets such as sampling purge, consumption data, safety improvement tracking data and period summary report data.
 - Preparing, organising and storing information in paper/files and digital form. 
 
