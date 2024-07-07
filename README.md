@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Arduino, Raspberry pi
 
 ## Education
-- BSc (Hons) Computer Science in Real-Time Interactive Simulation | SIT University (_Sept 2026(estimation) - present_)								       		
+- BSc (Hons) Computer Science in Real-Time Interactive Simulation | SIT University (_Sept 2026(TBC) - present(TBC)_)								       		
 - Diploma in Advance and Digital Manufacturing	| Nanyang Polytechnic (_April 2020 – April 2023_)	 			        		
 
 ## Work Experience
