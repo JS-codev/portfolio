@@ -18,6 +18,8 @@
 ## Traits
 - High analytical thinking (Distinctions in Calculus, Probability & Statistics, and Differential Equations & Series during NYP)
 - Strong problem solver
+- High level of discipline 
+- Able to work independently 
 - Experienced in Stable diffusion AI & machine learning
 - Sharp attention to details (Able to comprehend intensely on specific tasks)
 - Experienced in Data Analysis 
