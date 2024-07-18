@@ -22,7 +22,8 @@
 - Able to work independently 
 - Experienced in Stable diffusion AI & machine learning
 - Sharp attention to details (Able to comprehend intensely on specific tasks)
-- Experienced in Data Analysis 
+- Experienced in Data Analysis
+- Strong passion in data analysis/software engineer
 
 
 ## Projects
