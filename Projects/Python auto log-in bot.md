@@ -48,3 +48,5 @@ Click on the Username/Email element textbox, which is shown below.
 ![2nd](https://github.com/JS-codev/portfolio/assets/174925691/f16f7a2e-6dd2-42d3-8c89-8b548afa2001)
 
 4. So the id element found for "Email address" is i0118.
+
+(Dec 2020)
