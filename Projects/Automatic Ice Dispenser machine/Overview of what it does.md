@@ -5,7 +5,7 @@
 
 <ins>**What the product does**</ins>
 
-- When the user places cup under machine, it activates the sensor at the front of the dispenser
+- When the user places cup under machine, it activates the ultrasonic sensor at the front pocket of the dispenser
 - The motor will then turn a fixed number automatically to dispense the specific amount of ice cubes into the cup
 - This is to prevent drink from being diluted by 35%.
 
