@@ -1,7 +1,7 @@
 <ins>**Main Purpose**</ins>
 - The Arduino ultrasonic sensor will collect the water percentage of how much the cup can be poured on
 - It will also collect temperature as well
-- Once it collects these data, it will be sent to the SQL database.
+- Once it collects these data, it will be sent to the SQL database, which can be installed through XAMPP .
 
 **Hardware componets:**
 - Laptop
