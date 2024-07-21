@@ -11,6 +11,10 @@ GPIO.setmode(GPIO.BCM)
 # pin_b discharges the thermistor 
 a_pin = 7
 b_pin = 5
+buzzer = 3
+
+# Set setup buzzer
+GPIO.setup(buzzer,GPIO.OUT)
 
 # emptying…
 def discharge():
@@ -30,13 +34,17 @@ def charge_time():
     t2 = time.time()
     return (t2 - t1) * 1000000
 
+
+
+
+
 # Take an analog reading as the time taken to charge after first discharge.
 def analog_read():
     discharge()
     t = charge_time()
     discharge()
     return t
-  
+
 # Convert the time taken to charge into a value of resistance
 # To reduce errors, do it 10 times and take the average.
 def read_resistance():
@@ -61,6 +69,16 @@ def read_temp_c():
 try:
     while True:
         print(read_temp_c())
+        if read_temp_c() < 120:
+            print(“Temp below 120°C”)  #Molding may crack 
+            GPIO.output(buzzer, GPIO.HIGH)
+        if read_temp_c() > 180:
+            print(“Temp above 180°C”)  #Molding materials may be damaged. 
+            GPIO.output(buzzer, GPIO.HIGH)
+        else:
+            GPIO.output(buzzer,GPIO.LOW)  #Molding no crack / damaged 
+            continue
+        
         time.sleep(0.5)
 finally:
     GPIO.cleanup()
