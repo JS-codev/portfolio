@@ -25,7 +25,7 @@
 - Experienced in Data Analysis
 - Strong passion in data analysis/software engineer
 
-
+![Orthogonal projection illustration](https://github.com/user-attachments/assets/7660e997-389c-49d5-ad00-7edcb68679f3)
 ## Projects
 --- 
 ### Data analytics on malware 
