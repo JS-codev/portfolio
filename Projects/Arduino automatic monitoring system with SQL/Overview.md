@@ -16,6 +16,9 @@ SQL Database with arudino:
 Full preview of Arduino kit working together: 
 [Arduino kit working](https://youtu.be/qh8WHZqiqec)
 
+Preview of SQL section working: [Arduino with SQL](https://youtu.be/EumwrbsB7Rg)
+
+
 
 **How it works:**
 - The Arduino ultrasonic sensor will detect the distance between itself and the water level in the cup
