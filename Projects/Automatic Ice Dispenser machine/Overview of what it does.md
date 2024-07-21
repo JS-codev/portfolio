@@ -8,6 +8,7 @@
 - When the user places cup under machine, it activates the ultrasonic sensor at the front pocket of the dispenser
 - The motor will then turn a fixed number automatically to dispense the specific amount of ice cubes into the cup
 - This is to prevent drink from being diluted by 35%.
+- [Visual Demostration](https://youtu.be/KLIictypB7U)
 
 <ins>**How the product is made**</ins>
 - Outter layer is made by using Polylactic Acid (PLA) and Acrylic plastic, along with arduino hardware components.
