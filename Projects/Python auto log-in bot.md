@@ -1,13 +1,13 @@
-This bot inputs your username and password automatically for you, which will help you log in easier and faster.
+**What it does:** This bot inputs your username and password automatically for you, which will help you log in easier and faster.
 
-**How it works:**
+<ins>**How it works:**</ins>
+- Once the code is excuted, the bot will automatically run based on the entire code, and will open up a website to log in automatically.
 
-Once the code is excuted, the bot will automatically run based on the entire code, and will open up a website to log in automatically.
+**Preview of Auto login pybot working:**
+[Demostration Video](https://github.com/user-attachments/assets/acfadd57-897f-4e3a-adb6-007a194a68e2)
 
-Preview of Auto login bot working:
-
-Main code for the python bot:
-
+<ins>**Auto login pybot code:**</ins>
+```
 from selenium import webdriver
 import time
 
@@ -33,6 +33,7 @@ pass_element = browser.find_element_by_id("[place id here]")
 pass_element.send_keys(password)
 SignInButton_element=browser.find_element_by_id("[place id here]")
 SignInButton_element.click()
+```
 ---
 
 **Detail steps to find id element in browser page:**
@@ -46,4 +47,4 @@ Click on the Username/Email element textbox, which is shown below.
 
 ![2nd](https://github.com/JS-codev/portfolio/assets/174925691/f16f7a2e-6dd2-42d3-8c89-8b548afa2001)
 
-4. So the id element found is i0118.
+4. So the id element found for "Email address" is i0118.
