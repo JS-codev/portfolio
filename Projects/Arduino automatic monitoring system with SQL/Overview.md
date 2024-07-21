@@ -16,7 +16,7 @@ SQL Database with arudino:
 Full preview of Arduino kit working together: 
 [Arduino kit working](https://youtu.be/qh8WHZqiqec)
 
-Preview of SQL section working: [Arduino with SQL](https://youtu.be/EumwrbsB7Rg)
+Preview of Arduino SQL section working: [Arduino with SQL](https://youtu.be/EumwrbsB7Rg)
 
 
 
