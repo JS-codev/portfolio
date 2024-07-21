@@ -1,0 +1,78 @@
+#include <Ethernet.h>
+#include <PubSubClient.h>
+#include <math.h>
+#include "Ultrasonic.h"
+int a;
+float temperature;
+int B=3975;                  //B value of the thermistor
+float resistance;
+const int R0 = 100000; 
+const int k=0;
+Ultrasonic ultrasonic(7);      //Ultrasonic connected to pin 7
+const int pinTempSensor = A0;  //Temp connected to A0
+
+
+byte mac[] = { 0x90, 0xA2, 0xDA, 0x11, 0x35, 0x91 };   //Change to your arduino MAC, refer to the sticker on the side
+IPAddress server(10,204,221,101);   //change to the php server ip      
+EthernetClient client;
+
+
+void setup() {
+      Serial.begin(9600);
+      Serial.println("Pushing data");
+      Ethernet.begin(mac);           //Connects to SQL Database
+      delay(1500);                  //wait for connection
+      
+      //print connection detail 
+      Serial.print("Arduino IP Address        : ");   
+      Serial.println(Ethernet.localIP());
+      Serial.print("Gateway       : ");
+      Serial.println(Ethernet.gatewayIP());
+      Serial.print("Subnet Mask       : ");
+      Serial.println(Ethernet.subnetMask());
+      
+}
+
+
+void loop() {
+      long h =0;
+      long RangeInCentimeters;               //Ultrasonic sensor
+      RangeInCentimeters=ultrasonic.MeasureInCentimeters();
+      h = RangeInCentimeters - 5;
+      long percentage = 100 - (100/25 * h);  
+     
+      int a = analogRead(pinTempSensor);    //Temperature sensor
+      float R = 1023.0/a-1.0;
+      R = R0*R;
+      float temperature = 1.0/(log(R/R0)/B+1/298.15)-273.15+(k);
+      
+      Serial.print("\nTemperature(°C)=");
+      Serial.println(temperature );
+      Serial.print("<");
+      Serial.print(RangeInCentimeters);
+      Serial.print("cm>");
+      Serial.print("The coolant level is at ");  //30cm = 10%
+      Serial.print(percentage);//0~30cm
+      Serial.print("%");   
+  
+    if (client.connect(server, 80)) {
+    Serial.println(" -> Connected");
+    
+    // Make a HTTP request:
+    client.print("GET http://10.204.221.101/DanielRyan/send3.php?");
+    client.print("percent=");
+    client.print(percentage);
+    client.print("&temp=");
+    client.print(temperature);
+    client.print("&ultrasonicsensor=");
+    client.print(RangeInCentimeters);
+    client.println(" HTTP/1.1");
+    client.print( "Host: " );
+    client.println( "Connection: close" );
+    client.println();
+    client.println();
+    client.stop();
+    Serial.println("data send");
+    delay(500);     //every 20 second send one reading
+   }
+}
