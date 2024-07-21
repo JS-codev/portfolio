@@ -1,11 +1,15 @@
 //This entire code includes Serial monitor display as well as LCD RGB backlight-Display.
-//It also includes temp sensor, LED, ultrasonic sensor, buzzer and button.
+//Arduino code that reads and store Ultrasonic sersor distance, coolant lvl with percentage and temperature data into SQL Database
 
+#include <PubSubClient.h>
+#include <Ethernet.h>
 #include <math.h>
 #include "Ultrasonic.h" 
 #include <Wire.h>               //Communicate with I2C devices 
 #include "rgb_lcd.h"            //Include the RGB_LCD.
 rgb_lcd lcd;                    //LCD is connected to 12C. 
+float temperature;
+float resistance;
 const int k = 0;                //k value is set to 0
 const int B = 4275;             // B value of the thermistor
 const int R0 = 100000;          // R0 = 100k
@@ -17,9 +21,15 @@ Ultrasonic ultrasonic(7);       //Ultrasonic sensor is connected to pin 7
 int buttonState = 0;
 int previousState = 0;
 
+byte mac[] = { 0x90, 0xA2, 0xDA, 0x11, 0x35, 0x91 };   //Arduino MAC, refer to the sticker on the side
+IPAddress server(192,168,50,95);   //php server ip      
+EthernetClient client;
+
 void setup()
 {
     Serial.begin(9600);
+    Ethernet.begin(mac); 
+    delay(1500); //wait for connection
     pinMode(buzzer, OUTPUT);
     pinMode(buttonPin, INPUT);
     pinMode(led, OUTPUT);
@@ -28,6 +38,12 @@ void setup()
     lcd.print("Press button to");
     lcd.setCursor(0,1);          //Set cursor to bottom left conner of the screen. 
     lcd.print("turn on system");
+    Serial.print("Arduino IP Address        : ");    //print connection detail 
+    Serial.println(Ethernet.localIP());
+    Serial.print("Gateway       : ");
+    Serial.println(Ethernet.gatewayIP());
+    Serial.print("Subnet Mask       : ");
+    Serial.println(Ethernet.subnetMask());
     Serial.print("Press button to turn on the system");
 }
 
@@ -73,8 +89,8 @@ void loop()
       if (temperature > 28) {        //RED LED TURN ON IF TEMP IS OVER 28°C 
         digitalWrite(led, HIGH);
       }
-      if (percentage > 30)  //If coolant level is ABOVE 30%, Buzzeer turned ON. 
-{
+          
+      if (percentage > 30) {   //Buzzer turn on if coolant level is ABOVE 30% 
         Serial.print("\nBuzzer turned ON due to coolant lvl above 30%");
         lcd.setCursor(16,0);                    //Sets the cursor 16 blocks from the top left of the screen.
         lcd.print("(Alarm alert Online)");
@@ -84,18 +100,33 @@ void loop()
           delay(80);                      //shorter delay for lcd to scroll
         }
         delay(100);                     //delay for the buzzer to buzz a little more. 
-        digitalWrite(buzzer, LOW);
-
-        
+        digitalWrite(buzzer, LOW);    
   }
+      if (client.connect(server, 80)) {    //Connects to SQL database and sends collected data into it.
+        Serial.println(" -> Connected");
+        client.print("GET http://192.168.50.95/Joshua/send.php?");       // Make a HTTP request:
+        client.print("percent=");
+        client.print(percentage);
+        client.print("&temp=");
+        client.print(temperature);
+        client.print("&ultrasonicsensor=");
+        client.print(RangeInCentimeters);
+        client.println(" HTTP/1.1");
+        client.print( "Host: " );
+        client.println( "Connection: close" );
+        client.println();
+        client.println();
+        client.stop();
+        Serial.println("data send");
+        delay(2000);     //every 20 second send one reading
+   }
+          
       buttonState = digitalRead(buttonPin);
       if (buttonState==HIGH) {       //Setting up the "breaking out of while loop" if the button is pressed again...
         previousState=1;
        }
- 
       delay(500);
 }
-
       if (buttonState == 1) {        //If the button is pressed after it is turn on, it will access to this code. 
       lcd.clear();                   //Clear all written things on the LCD.
       lcd.print("System Offline");   //LCD prints "System offline" which uses a total of 14 blocks 
