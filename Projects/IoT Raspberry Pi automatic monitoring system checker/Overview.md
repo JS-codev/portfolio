@@ -3,6 +3,10 @@
 - The most stable temperature should be around 120°C to 180°C
 <p>&nbsp;</p> 
 
+**Preview of injection moulding machine:**
+
+![Screenshot (24)](https://github.com/user-attachments/assets/846a95d2-9e32-4e41-b086-67335236cedd)
+
 <ins>**Main Objective of this project:**</ins>
 - Collect and monitor temperature between 100°C - 200°C inside injection moulding.
 - Galvanize Python to collect temperature data from the NTC Thermistor through the use of the Raspberry Pi board. 
