@@ -28,10 +28,10 @@
 ## Projects
 --- 
 ### Data analytics on malware 
-### Data analytics on predicted no. of healthcare services in the future
+### Pushing data using SQL with arduino coding
 ### Data analytics on coffee shop, 
 ### Automatic Ice Dispenser
-### Pushing data using SQL with arduino coding
+### [Pushing data using SQL with arduino coding](https://github.com/JS-codev/portfolio/tree/main/Projects/Arduino%20automatic%20monitoring%20system%20with%20SQL)
 ### Python auto sign in bot
 ### Python auto bin dispenser bot 
 ### Python receipt 
