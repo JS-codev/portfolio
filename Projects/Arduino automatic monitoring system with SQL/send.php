@@ -1,8 +1,3 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Untitled Document</title>
-</head>
 <?php
 	//establish connection to database
 	$dbuser = "root";  // enter your username for mysql
@@ -24,6 +19,3 @@ echo $SQL;
 	}
 
 ?>
-<body>
-</body>
-</html>
