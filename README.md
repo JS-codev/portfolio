@@ -30,8 +30,8 @@
 ### Data analytics on malware 
 ### Pushing data using SQL with arduino coding
 ### Data analytics on coffee shop, 
-### Automatic Ice Dispenser
-### [Pushing data using SQL with arduino coding](https://github.com/JS-codev/portfolio/tree/main/Projects/Arduino%20automatic%20monitoring%20system%20with%20SQL)
-### Python auto sign in bot
+### [Automatic Ice Dispenser](https://github.com/JS-codev/portfolio/tree/main/Projects/Automatic%20Ice%20Dispenser%20machine)
+## [Pushing data using SQL with arduino coding](https://github.com/JS-codev/portfolio/tree/main/Projects/Arduino%20automatic%20monitoring%20system%20with%20SQL)
+## [Python auto sign in bot](https://github.com/JS-codev/portfolio/tree/main/Projects/IoT%20Raspberry%20Pi%20automatic%20monitoring%20system%20checker)
 ### Python auto bin dispenser bot 
 ### Python receipt 
