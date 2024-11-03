@@ -15,7 +15,7 @@
 
 - From 'results.summary()', Find the 2 "coef" data from const 0.2750 = b0, and SAT 0.0017 = b1 
 - Add in code of `yhat = 0.0017*x1 + 0.275`
-- Recreate the graph with new line `fig = plt.plot(x1,yhat, lw=4, c='orange', label ='regression line')` to show line.
+- Recreate the graph with new line `fig = plt.plot(x1,yhat, lw=4, c='orange', label ='regression line')` to show correlation line.
 
 **Step 3:**
 - From the graph, look at where the line correlation is at.
