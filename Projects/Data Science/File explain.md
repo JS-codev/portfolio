@@ -1,5 +1,5 @@
 **Hypothesis statement:**
-- Does GPA affect no. of SAT test taken?
+- Does GPA affect SAT Score?
    
 **Step 1: Find good data set**
 - Data set can be found in Kaggle
