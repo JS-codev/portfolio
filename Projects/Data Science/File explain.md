@@ -1,10 +1,11 @@
 **Hypothesis statement:**
-- Does GPA affect no. of SAT test taken
+- Does GPA affect no. of SAT test taken?
    
-**Step 1:**
+**Step 1: Find good data set**
+- Data set can be found in Kaggle
 - We drop csv file "Simple linear regression.csv" into same directory folder path as main .ipynb file is. 
 
-**Step 2:**
+**Step 2: Code**
 - We imported matplotlib/seaborn, numpy, pandas and statsmodels
 
 - Load the data through `pd.read_csv('Simple linear regression.csv')`
@@ -17,7 +18,7 @@
 - Add in code of `yhat = 0.0017*x1 + 0.275`
 - Recreate the graph with new line `fig = plt.plot(x1,yhat, lw=4, c='orange', label ='regression line')` to show correlation line.
 
-**Step 3:**
+**Step 3: Interpret the result**
 - From the graph, look at where the line correlation is at.
 - Since it's showing a positive correlation, we can say...
 - In conclusion, the higher the SAT count, the higher the GPA results.
