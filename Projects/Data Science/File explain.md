@@ -9,7 +9,7 @@
 
 - Load the data through `pd.read_csv('Simple linear regression.csv')`
 
-- Create graph with y-axis (GPA) and x-axis (SAT), and plot scattor graph
+- Create graph with y-axis (GPA) and x-axis (SAT), and plot scatter plot graph
 
 - Show resutls therough `results.summary()`
 
