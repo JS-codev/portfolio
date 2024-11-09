@@ -1,2 +1,3 @@
 # type *.txt to ignore all .txt file here
 .vs #ignore all vs files (not necessary for version control)
+.vsidx #for vs indexing purpose 
