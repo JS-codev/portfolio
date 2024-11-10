@@ -1,3 +1,4 @@
 # type *.txt to ignore all .txt file here
 #ignore all vs files (not necessary for version control)
 *.vs 
+.ipynb_checkpoints
