@@ -1,6 +1,5 @@
 
 // Single-line comments start with // - only available in C99 and later.
-
 /*
 Multi-line comments look like this. They work in C89 as well.
 */
