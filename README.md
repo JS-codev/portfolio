@@ -3,11 +3,10 @@
 #### Technical Skills: C++, Python, SQL, Arduino, Raspberry pi, Power BI, tableau
 
 ## Education
-- BSc (Hons) Computer Science in Real-Time Interactive Simulation | SIT University (_Sept 2026(TBC) - present(TBC)_)								       		
 - Diploma in Advance and Digital Manufacturing	| Nanyang Polytechnic (_April 2020 – April 2023_)	 			        		
 
 ## Work Experience
-**Data collector @ DIS during NS (_Feb 2024 - Ang 2024_)**
+**Data collector @ DIS during NS (_Feb 2024 - Nov 2024_)**
 - Classification and identification of data
 - Gained more knowledge experiences in Adobe Audition CS6
 
@@ -20,9 +19,9 @@
 - Strong problem solver
 - High level of discipline 
 - Able to work independently 
-- Experienced in Stable diffusion AI & machine learning
+- Experienced in Stable diffusion AI & machine learning (SKLearn)
 - Sharp attention to details (Able to comprehend intensely on specific tasks)
-- Experienced in Data Analysis
+- Experienced in Data Analysis & Data Science
 - Strong passion in software engineer/data scientist
 
 ## Projects
