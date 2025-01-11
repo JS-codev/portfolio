@@ -23,7 +23,7 @@ export default function Header() {
 }
 ```
 
-- We then add Header file component into `App.jsx` for it to run
+- We then add `Header.jsx` file component into `App.jsx` for it to run
   - `App.jsx` is the top-level component in React. It defines the layout of an app and includes other components that make up the user interface (UI).
 
 ```jsx
