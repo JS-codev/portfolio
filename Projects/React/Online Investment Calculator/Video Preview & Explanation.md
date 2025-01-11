@@ -23,7 +23,7 @@ export default function Header() {
 }
 ```
 
-- We then add Header file component into `App.jsx` for it to open
+- We then add Header file component into `App.jsx` for it to run
   - `App.jsx` is the top-level component in React. It defines the layout of an app and includes other components that make up the user interface (UI).
 
 ```jsx
@@ -86,7 +86,7 @@ return (
     );
 }
  ```
- - Now we can add `<UserInput />` to function App() in `App.jsx`
+ - Now we can add `<UserInput />` to function App() in `App.jsx` for it to run
  
 **Step 3: Calculates the inputed values**
 - In order to pass the userInput values into `Results.jsx` component:
