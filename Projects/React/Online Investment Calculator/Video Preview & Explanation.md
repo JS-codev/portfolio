@@ -120,8 +120,7 @@ export function calculateInvestmentResults({
 }
 ```
 - In addtion, create a formatter that rounds off numerical values to 2 decimal place.
-```
-//This round off numbers to 2 d.p 
+```jsx
 // Example Usage: formatter.format(1000) => yields "$1,000"
 export const formatter = new Intl.NumberFormat("en-US", {
     style: "currency",
