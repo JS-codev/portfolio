@@ -3,12 +3,12 @@ https://github.com/user-attachments/assets/32b51621-ec40-4d6c-95ef-ec73d2001bae
 
 **Explanation:**
 
-**Step 1: Add header & requried image **
+**Step 1: Add header & requried image**
 - Put image under src/assets/image.png
 
 - We create a `Header.jsx` for title (under `Src` > `components` folder)
 - `index.css` file contains `#header` style that has `text-align: center`
-`index.css` contains global styles that can be applied to define overall styling of an app. This styling for elements includes body, headings, link, container styles. 
+- `index.css` contains global styles that can be applied to define overall styling of an app. This styling for elements includes body, headings, link, container styles. 
 
 ```jsx
 //Header.jsx
