@@ -122,14 +122,14 @@ export function calculateInvestmentResults({
 
 **Step 4: Display the caluclated results**
 - Import the `calculateInvestmentResults` function and other format from `investment.js` into `results.jsx `
-- Then calculate the `resultsData` and `initialInvestment` data
+- Then take in the user's inputed values from `calculateInvestmentResults` and put them into the `resultsData` variable.
 ```jsx
 //results.jsx
 import { calculateInvestmentResults, formatter } from '../util/investment.js';
 
 export default function Results({ input }) { //takes in UserInput values from App.jsx
     const resultsData = calculateInvestmentResults(input); //place values into investment.js to calculates investment results
-    const initialInvestment = resultsData[0].valueEndOfYear - resultsData[0].interest - resultsData[0].annualInvestment;
+    const initialInvestment = resultsData[0].valueEndOfYear - resultsData[0].interest - resultsData[0].annualInvestment; //Calculates and find the first user's input for Initial Investment for later further calculation
 ```
 
 - Create a table to display the results:
