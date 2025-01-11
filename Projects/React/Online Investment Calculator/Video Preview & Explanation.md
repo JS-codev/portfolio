@@ -119,9 +119,19 @@ export function calculateInvestmentResults({
     return annualData;
 }
 ```
-
+- In addtion, create a formatter that rounds off numerical values to 2 decimal place.
+```
+//This round off numbers to 2 d.p 
+// Example Usage: formatter.format(1000) => yields "$1,000"
+export const formatter = new Intl.NumberFormat("en-US", {
+    style: "currency",
+    currency: "USD",
+    minimumFractionDigits: 2, //round off to 2 d.p
+    maximumFractionDigits: 2
+});
+```
 **Step 4: Display the caluclated results**
-- Import the `calculateInvestmentResults` function and other format from `investment.js` into `results.jsx `
+- Import the `calculateInvestmentResults` function and `formatter` from `investment.js` into `results.jsx `
 - Then take in the user's inputed values from `calculateInvestmentResults` and put them into the `resultsData` variable.
 ```jsx
 //results.jsx
