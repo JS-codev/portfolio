@@ -1,15 +1,17 @@
-import { calculateInvestmentResults, formatter } from '../util/investment.js';
+import { calculateInvestmentResults, formatter } from '../util/investment.js'; //import the calcuated data and formatter to round off significant figures
 
-export default function Results({ input }) {
-    const resultsData = calculateInvestmentResults(input);
-    const initialInvestment = resultsData[0].valueEndOfYear - resultsData[0].interest - resultsData[0].annualInvestment;
+export default function Results({ input }) { //takes in UserInput values from App.jsx
+    const resultsData = calculateInvestmentResults(input); //place values into investment.js to calculates investment results
+    const initialInvestment = resultsData[0].valueEndOfYear - resultsData[0].interest - resultsData[0].annualInvestment; 
 
+    //Table results 
     return (
         <table id='result'>
             <thead>
-                <tr>
+                <tr> 
                     <th>Year</th>
                     <th>Investment Value</th>
+                    <th>Interest (Year)</th>
                     <th>Total Interest</th>
                     <th>Invested Capital</th>
                 </tr>
@@ -25,6 +27,7 @@ export default function Results({ input }) {
                             {/* Use formatter.format() to display the investment value to 2 decimal places */}
                             <td>{formatter.format(yearData.valueEndOfYear)}</td>
                             <td>{formatter.format(yearData.interest)}</td>
+                            <td>{formatter.format(totalInterest)}</td>
                             <td>{formatter.format(totalAmountInvested)}</td> {/* Ensure only necessary columns */}
                         </tr>
                     );

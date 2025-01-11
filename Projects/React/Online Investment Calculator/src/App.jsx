@@ -17,8 +17,8 @@ function App() {
     function handleChange(inputIdentifier, newValue) {
         setUserInput(prevUserInput => {
             return {
-                ...prevUserInput,
-                [inputIdentifier]: +newValue, //add plus here to update new results
+                ...prevUserInput, //copy the properties of previous object into a new object.
+                [inputIdentifier]: +newValue, //add plus here to update new results (20+30=50) instead of 20 + 30 = 2030
             };
         });
     } 
