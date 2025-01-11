@@ -39,8 +39,8 @@ export default App
 **Step 2: Adding and updating user input**
 - Create `UserInput.jsx` that returns a section that takes in user-input in numerical for variables of `initialInvestment`, `annualInvestment`, `expectedReturn`, and `duration`. 
     - `initialInvestment` represents the amount of money initially invested/deposited at the start of the investment.
-    - `annualInvestment` indicates the additional amount of money contributed to the investment annually.
-    - `expectedReturn` represents the  expected annual rate of return on the investment (%)
+    - `annualInvestment` indicates the additional amount of money contributed to the investment yearly.
+    - `expectedReturn` represents the expected annual rate of return on the investment (%)
     - `duration` represents the duration of the investment in years.
 - Create a variable `handleInputChange` that allows the user to input values into the 4 input fields
 
