@@ -1,0 +1,741 @@
+OrderID,Name,Store Visited,Date of Visit,Phone number,Order,Product Rating,Ambience rating,Waiting Time
+1,Mujtaba Whitehead,Orchard,Tuesday,89762334,Cappuccino,2,4,3
+2,Iris Harrell,Ang Mo Kio,Monday,85461073,americana,5,5,0
+3,Destiny Bassett,Tampines,Thursday,6585343662,Cappuccino,5,5,1
+4,Juliette Hogan,Jurong,Fridayday,82821574,Cappuccino,4,3,5
+5,Sohaib Read,Jurong,Thursday,87254281,Dble Espresso,5,1,3
+6,Earl Whitley,Tampines,Monday,92082124,Cappuccino,4,2,5
+7,Sharmin Charlton,Tampines,Thursday,6582635819,Americano,1,3,4
+8,Alejandro Clegg,Tampines,Tuesday,84034198,Cappuchino,,,
+9,Beatrix Mccann,Serangoon,Thurs ,92047184,Americano,4,5,3
+10,Olivia Figueroa,Serangoon,Fridayday,92847590,American,4,4,0
+11,Sylvia Boyle,Jurong,Tuesday,98423749,Tea,4,4,1
+12,Stan Estes,Serangoon,Monday,87475580,Cappuccino,0,4,3
+13,Arham Ellison,Serangoon,Monday,95664943,Americano,2,2,1
+14,Manal Lyons,Tampines,Thursday,86682773,Cappuccino,3,4,0
+15,Jamie Robinson,Tampines,Tuesday,6597932222,Americano,3,5,2
+16,Radhika Harding,Orchard,Tuesday,99209458,Americano,4,5,3
+17,Amirah Brock,Orchard,Wednesday,91768749,Latte,4,4,3
+18,Annabell Edwards,Jurong,Thursday,98284001,T,0,2,1
+13,Arham Ellison,Serangoon,Monday,95664943,Americano,2,2,1
+19,Hussain Vaughan,Tampines,Monday,88617345,Americano,0,5,1
+20,Shelley Waller,Serangoon,Tuesday,91509351,Americano,4,2,1
+21,Mylo Puckett,Tampines,Fridayday,92371517,Tea,3,1,0
+22,Beatrix Mccann,Serangoon,Fridayday,99523403,Tea,3,4,1
+23,Christy Mccallum,Tampines,Monday,6585166444,Tea,0,0,3
+27,Viola Salazar,Ang Mo Kio,Monday,88441445,Latte,2,5,2
+24,Tayyibah Amos,Jurong,Monday,84238774,Tea,4,2,5
+25,Taliah Sharpe,Orchard,Tuesday,94029858,Caramel Latte,3,0,4
+26,Saskia Gibson,Orchard,Thursday,96803774,T,1,3,5
+27,Viola Salazar,Ang Mo Kio,Monday,88441445,Latte,2,5,2
+28,Harleigh Williamson,Jurong,Friday,89011568,Latte,3,1,2
+29,Annabel Lin,Ang Mo Kio,Monday,81798132,Caramel Latte,5,4,3
+30,Harleigh Williamson,Jurong,Fridayday,6584141929,americano,2,1,2
+31,Leon Montes,Tampines,Monday,93462743,Americano,5,3,0
+32,Jillian Edmonds,Ang Mo Kio,Monday,94342940,Cappuccino,0,5,4
+33,Amy-Louise Hardin,Orchard,Fridayday,99796858,Americano,4,0,3
+34,Isabel Beltran,Orchard,Tuesday,85883921,Tea,5,4,2
+35,Troy Goodwin,Tampines,Fridayday,91521978,Cappuccino,5,3,5
+36,Rochelle Goodwin,Tampines,Monday,81582043,Americano,1,2,5
+37,Selin Hensley,Ang Mo Kio,Monday,96552777,Espressox2,0,2,3
+38,Meg Mair,Serangoon,Fridayday,84334327,Cappuccino,0,4,5
+39,Ariyah Brandt,Orchard,Wednesday,95575082,Cappuccino,2,1,1
+40,Elias Robbins,Orchard,Thurs ,84944035,americano,2,3,1
+41,Dalia Travers,Serangoon,Tuesday,98645664,Cappuccino,2,5,5
+42,Faith Blair,Jurong,Wednesday,95555025,Cappuccino,5,1,5
+43,Jamie Robinson,Jurong,Wednesday,84159960,Cappuccino,4,1,5
+44,Ariyah Brandt,Serangoon,Monday,96242349,Tea,5,2,1
+45,Raihan Phelps,Serangoon,Wednesday,98628471,Caramel Latte,4,5,5
+46,Isabel Beltran,Serangoon,Wednesday,96264182,Cappuccino,4,1,0
+47,Lillie-Mai Huynh,Jurong,Fridayday,91932454,Latte,5,2,4
+48,Kourtney Rasmussen,Tampines,Wednesday,6597396602,Tea,1,5,0
+49,Kaydon Thornton,Orchard,Tuesday,81623294,Americano,0,4,0
+50,Yusra Lyon,Serangoon,Tuesday,84584504,Cappuccino,3,4,5
+51,Khia Farrow,Tampines,Wednesday,6581615861,Americano,5,2,0
+52,Cassandra Hanna,Tampines,Thurs ,95258409,Tea,4,0,5
+53,Mia Myers,Jurong,Wednesday,94261455,Tea,1,3,1
+54,Tre Calhoun,Ang Mo Kio,Thursday,84373776,Americano,0,1,5
+55,Tiya Mcknight,Ang Mo Kio,Monday,92764888,Americano,2,3,0
+56,Dalia Travers,Tampines,Monday,97058409,Latte,3,2,4
+57,Cayden Byrne,Ang Mo Kio,Wednesday,83832647,Tea,2,4,0
+58,Fatima Barnes,Tampines,Tues,87049997,Tea,0,3,5
+59,Sukhmani Taylor,Ang Mo Kio,Monday,92817354,Americano,2,0,2
+60,Tymon Mcneil,Tampines,Tuesday,99412377,Americano,1,5,4
+61,Ariyah Brandt,Jurong,Wednesday,98577401,tea,0,0,2
+62,Cayden Byrne,Jurong,Tuesday,96002928,Americano,5,0,5
+63,Cali Lloyd,Jurong,Wednesday,94976485,Americano,1,2,4
+64,Keelan Pugh,Tampines,,6594154094,Latte,4,5,4
+65,Sylvia Boyle,Orchard,Fridayday,86852548,Tea,5,1,4
+66,Martina Newman,Serangoon,Tuesday,86297884,Caramel Latte,3,4,4
+67,Penelope Maynard,Ang Mo Kio,Fridayday,96431704,Caramel Latte,5,5,3
+68,Essa Ryan,Orchard,Tuesday,89209749,Cappuccino,2,0,3
+69,Adil Baldwin,Ang Mo Kio,Tuesday,98029831,Capuccino,0,0,1
+70,Kelan Huffman,Orchard,,6587531582,Americano,1,5,3
+71,Annabell Edwards,Tampines,Wednesday,89851993,Caramel Latte,3,4,4
+72,Ella-Grace Cross,Serangoon,Monday,96796227,Cappuccino,1,4,0
+73,Saqlain Schultz,Jurong,Wednesday,98561180,Cappuccino,1,2,1
+74,Alisha Pemberton,Tampines,Fridayday,95971671,Caramel Latte,3,2,2
+75,Mia Myers,AMK,Tuesday,87651029,Cappuccino,4,0,4
+76,Aliesha Garrison,Jurong,Monday,88993513,Tea,5,0,4
+77,Kaydon Thornton,Jurong,,9486636,Tea,0,2,4
+78,Ariyah Brandt,Jurong,Thursday,95328331,Tea,5,1,4
+79,Aaryan Clarkson,Orchard,Thursday,87338053,Cappuccino,1,3,1
+80,Mahad Moran,Serangoon,Thursday,96246635,Cappuccino,5,3,2
+81,Arley Mora,Ang Mo Kio,Fridayday,99173613,Latte,5,5,2
+82,Simeon Suarez,Tampines,Fridayday,82052866,Americano,5,2,5
+83,Charleigh Olson,Jurong,Wednesday,81765698,Americano,2,5,0
+84,Mohammed Macleod,Orchard,Monday,95003053,Tea,2,2,5
+85,Joey Benitez,Tampines,Fridayday,6581984518,Tea,1,3,5
+86,Francis Briggs,Serangoon,Tues,6598064608,Tea,2,0,1
+87,Kade Morris,Tampines,Thursday,6592274314,Americano,5,3,5
+88,Leon Montes,Ang Mo Kio,Fridayday,88799883,Caramel Latte,5,2,3
+89,Yuvaan Cote,Serangoon,Monday,94626797,Caramel Latte,5,0,2
+90,Kaydon Thornton,Orchard,Thursday,91754119,Cappuccino,3,0,1
+91,Ava-Rose Small,Ang Mo Kio,Tuesday,6581641108,Latte,4,3,3
+92,Ellesha Key,Jurong,Thursday,99019117,Cappuccino,3,3,4
+93,Amar Healy,Tampines,Fridayday,6581293245,Tea,2,0,4
+94,Christy Mccallum,Serangoon,Thurs ,87672624,Americano,5,5,5
+95,Olivia Figueroa,Ang Mo Kio,Fridayday,84231967,Tea,1,1,2
+96,Elias Robbins,Jurong,Thurs ,83017115,Americano,3,0,4
+97,Nyla Brett,Tampines,Thursday,87146224,Americano,4,5,3
+98,Odin Cope,Orchard,Tuesday,91461376,latte,4,1,5
+99,Eva-Rose Armitage,Orchard,Thursday,89908876,Cappuchino,1,4,0
+100,Brady Mendez,Jurong,Tuesday,8529517,Tea,4,1,4
+101,Reuben Welsh,Orchard,Wednesday,87472516,americana,0,3,2
+102,Adrian Mills,Tampines,Thursday,92537558,Americano,1,3,0
+103,Arnie Walter,Serangoon,Fridayday,98442456,Tea,5,5,3
+104,Aliyah Salt,Orchard,Monday,98083321,Double Espresso,5,3,1
+105,Ariyah Brandt,Orchard,Tuesday,83026171,Tea,0,2,1
+106,Sophie Peck,Tampines,Fridayday,88051011,Cappuccino,5,5,3
+107,Jean-Luc Reyes,Serangoon,Thursday,93497516,Cappuccino,5,1,5
+108,Ronaldo Solomon,Serangoon,Thursday,85491080,Cappuccino,5,5,5
+109,Annabell Edwards,Ang Mo Kio,Fridayday,92861988,americana,0,2,3
+110,Reuben Sanford,Jurong,Fridayday,84422776,Latte,0,2,3
+111,Cayden Byrne,Orchard,Thurs ,92684838,americano,3,4,4
+112,Reegan Summers,Tampines,Thursday,97644714,Americano,3,5,1
+113,Lara Parrish,Serangoon,Thursday,89343571,Cappuccino,2,3,4
+114,Alejandro Clegg,Jurong,Wednesday,98757278,Cappuccino,1,1,0
+115,Laith Bell,Jurong,Wednesday,6583542671,Americano,2,4,4
+116,Humzah Green,Serangoon,Mon,6581083475,Tea,1,0,5
+117,Jess Ford,Orchard,Fridayday,6581027669,Latte,5,1,2
+118,Martina Newman,Tampines,Fridayday,91127816,tea,2,3,3
+119,Reuben Welsh,Ang Mo Kio,Monday,96719116,Cappuccino,2,0,0
+120,Savannah Padilla,Serangoon,Wednesday,96882591,Americano,2,4,2
+121,Hendrix Searle,Ang Mo Kio,Wednesday,6589693078,Tea,2,2,0
+122,Mia Myers,Orchard,Tuesday,81165781,Americano,1,0,5
+123,Jak Mata,Serangoon,Thursday,86878538,Cappuccino,1,3,3
+124,Abbigail Ramirez,Jurong,Wednesday,95207239,Tea,5,5,5
+125,Kaitlan Castillo,Ang Mo Kio,Monday,6587371451,tea,5,1,5
+126,Ellise Greenaway,Serangoon,Thursday,99162797,Caramel Latte,4,2,2
+127,Brady Mendez,Tampines,Tuesday,94101717,Caramel Latte,2,4,4
+128,Persephone Crowther,Jurong,Thursday,85985221,Caramel Latte,4,4,3
+129,Laila Wu,Orchard,Monday,6581641637,Americano,2,3,1
+130,Adeline Hodge,Serangoon,Monday,85744476,Tea,2,0,3
+131,Melissa Durham,Orchard,Fridayday,83644458,Americano,3,5,4
+132,Darcey Osborn,Orchard,Monday,88279618,Tea,1,0,1
+133,Vivien Barnett,Serangoon,Monday,83921553,Tea,1,3,5
+134,Irving Hall,Serangoon,Fridayday,92242697,Cappuccino,5,2,0
+135,Hakim Jennings,Ang Mo Kio,Mon,82174384,Americano,1,2,4
+136,Megan Legge,Serangoon,Wednesday,98858099,Tea,4,2,4
+137,Preston Trejo,Ang Mo Kio,Thursday,83216817,americano,5,5,4
+138,Mia Myers,Jurong,Wednesday,83841591,Cappaccino,5,1,3
+139,Brady Mendez,Ang Mo Kio,Monday,83674579,Americano,0,4,3
+140,Darrell Broughton,Tampines,Wednesday,98285948,Tea,1,3,2
+141,Christy Mccallum,Tampines,Tues,89177310,Latte,4,3,5
+142,Fatima Buxton,Tampines,Thursday,87213939,Cappucino,5,5,2
+143,Iain Clemons,Jurong,Fridayday,91187138,American,3,5,5
+144,Joseph Pratt,Serangoon,Monday,6581974661,Americano,4,5,4
+145,Adrian Mills,Jurong,Wednesday,98395351,Double Espresso,3,4,1
+146,Joey Benitez,Tampines,Tuesday,6589763548,Tea,1,0,0
+147,Kelan Huffman,Ang Mo Kio,Wednesday,6589763064,Tea,2,1,4
+148,Reuben Welsh,Serangoon,Wednesday,87842109,Cappuccino,2,0,1
+149,Olivia Figueroa,Orchard,Thursday,88371827,Caramel Latte,1,5,5
+150,Enrique Farrell,Tampines,Thursday,9701234,Americano,0,4,2
+151,Mehak Mccann,Orchard,Thursday,91653324,American,5,0,1
+152,Tyler-James Henry,Serangoon,Tuesday,85128125,Tea,5,4,3
+153,Clive Duran,Jurong,Fridayday,84852884,Caramel Latte,0,5,2
+154,Lennon Wise,Orchard,Wednesday,93859806,Cappuccino,2,4,0
+155,Zahid Hurst,Orchard,Thursday,87096526,Americano,3,1,3
+156,Lara Parrish,Ang Mo Kio,Monday,6588231868,Americano,2,3,4
+157,Tahir Parsons,Ang Mo Kio,Thursday,85912501,Americano,3,1,0
+158,Sadie Li,Jurong,Monday,88268712,Tea,4,2,3
+159,Philip Bain,Ang Mo Kio,Wednesday,97523329,Cappuccino,4,2,5
+160,Marley Bravo,Tampines,Monday,85015366,Tea,3,4,3
+161,Shakir Conway,Jurong,Wednesday,82569828,Cappuccino,1,2,3
+162,Martina Newman,Tampines,Fridayday,99513529,Cappuccino,4,5,3
+163,Guto Beech,Serangoon,Thursday,93132735,Americano,2,0,3
+164,Rudra Montes,Orchard,Thursday,98392035,Cappuccino,4,4,1
+165,Amar Healy,Serangoon,Tuesday,81633384,Double Expresso,0,1,1
+166,Adrian Mills,Jurong,Fridayday,94972272,American,5,0,3
+167,Hakim Jennings,Tampines,Thursday,98082660,Cappuccino,1,3,2
+168,Kelan Huffman,Orchard,Thursday,6589974813,Double Espresso,5,3,2
+169,Essa Mccallum,Jurong,Tuesday,97512557,Tea,4,1,5
+170,Lillie-Mai Huynh,Ang Mo Kio,Thursday,87767725,Cappuccino,1,1,1
+171,Sadie Li,Orchard,Fridayday,83517355,Dble Espresso,2,2,5
+172,Eva-Rose Armitage,Ang Mo Kio,Tues,91988754,Tea,4,4,0
+173,Sylvia Boyle,Jurong,Wednesday,87319947,Tea,5,5,2
+174,Lynda Galvan,Jurong,Thursday,98852307,Capuccino,3,1,2
+175,Hayden Nicholls,Jurong,Wednesday,82072016,tea,2,0,5
+176,Eva-Rose Armitage,Serangoon,Monday,92205046,Cappaccino,0,3,5
+177,Clive Duran,Tampines,Tuesday,97765450,Cappuccino,4,5,0
+178,Olivia Figueroa,Jurong,Thursday,87553875,Tea,3,4,2
+179,Bibi Mcneil,Serangoon,Tuesday,84374723,Tea,2,1,2
+180,Reuben Welsh,Serangoon,Tuesday,86182303,Cappucino,4,4,0
+181,Shelbie Tyler,Ang Mo Kio,Thursday,82608417,latte,1,5,3
+182,Bill Sadler,Ang Mo Kio,Wednesday,88274662,Cappuccino,4,5,1
+183,Mia Myers,Tampines,Thursday,82797430,Americano,2,1,3
+184,Jean-Luc Reyes,Ang Mo Kio,Tuesday,85929236,Tea,0,0,5
+185,Kelan Huffman,Orchard,Thursday,92617748,Cappuchino,2,2,5
+186,Lucian Thatcher,Serangoon,Monday,87305748,Americano,4,0,1
+187,Hakim Jennings,Serangoon,Wednesday,81658303,Latt,3,3,4
+188,Zakariyya Cope,Orchard,Monday,86152184,Cappuccino,5,0,0
+189,Rebeca Leblanc,Jurong,Tuesday,95017145,Cappuccino,2,5,5
+190,Eva-Rose Armitage,Serangoon,Wednesday,81454871,Double Expresso,1,0,4
+191,Gregory Mata,Ang Mo Kio,Friday,96998344,Tea,1,0,5
+192,Kourtney Rasmussen,Orchard,Thursday,83532136,Caramel Latte,2,4,2
+193,Tyrique Watt,Tampines,Fridayday,84312405,Cappuccino,4,3,5
+194,Manal Lyons,Tampines,Tuesday,86566658,Americano,1,5,4
+195,Jay Kirkland,Orchard,Monday,87116822,Caramel Latte,0,2,4
+196,Shuaib Walter,Jurong,Thursday,98291344,DEspresso,2,3,0
+197,Gina Parrish,Orchard,Friday,91047416,Americano,1,3,3
+198,Jamie Robinson,Orchard,Fridayday,81351133,Cappuccino,3,3,2
+199,Ariyah Brandt,Tampines,Monday,82025578,Latte,5,5,5
+200,Amy-Louise Hardin,Ang Mo Kio,Monday,91777490,Americano,4,4,2
+201,Tess Herman,Jurong,Thursday,84342040,Tea,2,4,3
+202,Akshay Schultz,Serangoon,Monday,85424966,Latte,4,5,2
+203,Pearce Dodd,AMK,Monday,96858602,Cappuccino,0,4,1
+204,Isobel Gibson,Tampines,Thursday,82301748,Americano,3,1,5
+205,Gracie-Mae Iles,Serangoon,Thursday,81568728,Americano,0,4,3
+206,Mia Myers,Orchard,Tuesday,87757687,Cappuccino,5,0,4
+207,Susannah Nairn,Jurong,Tuesday,84914800,Americano,4,1,3
+208,Diego Perez,Tampines,Wednesday,97378936,Caramel Latte,3,4,4
+209,Lennon Ellison,Orchard,Wednesday,84322930,Cappuccino,5,1,2
+210,Beverly Macgregor,Ang Mo Kio,Mon,88215890,Latte,5,3,5
+211,Tabatha Raymond,Serangoon,Tuesday,94792338,Cappuccino,3,5,0
+212,Rohit Allan,Ang Mo Kio,Tuesday,84452884,Cappuccino,2,4,3
+213,Reuben Welsh,Ang Mo Kio,Wednesday,91042742,Tea,0,1,5
+214,Cassandra Hanna,Ang Mo Kio,Thurs ,81065314,americana,0,1,3
+215,Ariyah Brandt,Jurong,Wednesday,88769728,Tea,5,3,3
+216,Hendrix Searle,Ang Mo Kio,Mon,6593869499,Double Espresso,2,5,2
+217,Joey Benitez,Orchard,Fridayday,6584187536,Tea,2,1,0
+218,Lillie-Mai Huynh,Ang Mo Kio,Tuesday,89949017,Cappuccino,3,4,0
+219,Sadie Li,Serangoon,Fridayday,89575111,Tea,2,0,0
+220,Manal Lyons,Orchard,Wednesday,89073517,Cappuccino,0,3,5
+221,Giselle Arroyo,Tampines,Monday,88968765,Cappuccino,1,1,3
+222,Saul Hogg,Tampines,Tuesday,93126922,Tea,2,4,2
+223,Warwick Woolley,Ang Mo Kio,Thursday,92167317,Tea,2,0,4
+224,Umar Hines,Serangoon,Fridayday,95374137,American,4,1,0
+225,Ella-Grace Cross,Serangoon,Monday,91004939,Tea,2,2,0
+226,Alissa Mullins,Tampines,Wednesday,83717811,Americano,5,1,5
+227,Keanan Peralta,Jurong,Wednesday,6591784813,Dble Espresso,5,1,5
+228,Jai Mckay,Ang Mo Kio,Fridayday,6587103935,Tea,5,5,4
+229,Jozef Mcnamara,Orchard,Tuesday,87038417,Cappuchino,4,2,5
+230,Earl Whitley,AMK,Wednesday,96035455,Cappuccino,0,2,4
+231,Arya Wise,Tampines,Monday,98272719,Double Espresso,0,0,1
+232,Harleigh Williamson,Tampines,Thursday,88054598,Americano,2,2,5
+233,Donte French,Tampines,Friday,99821674,Double Espresso,2,4,1
+234,Manal Lyons,Serangoon,Monday,84204855,americano,4,3,2
+235,Jayda Boyd,Orchard,Wednesday,85725232,Caramel Latte,4,4,4
+236,Mehreen Escobar,Jurong,Fridayday,92334530,Americano,5,3,3
+237,Ronaldo Solomon,Serangoon,Fridayday,82242885,Cappuccino,5,1,5
+238,Connagh Macfarlane,Tampines,Tues,88583678,Americano,5,4,1
+239,Kelan Huffman,Orchard,Thursday,84328267,Cappuccino,5,5,5
+240,Cali Lloyd,Ang Mo Kio,Monday,91729991,Tea,1,4,3
+241,Brady Mendez,Orchard,Tuesday,81612066,Americano,3,2,5
+242,Hakim Jennings,Tampines,Monday,96821900,Caramel Latte,3,2,5
+243,Amaan Milne,Orchard,Wednesday,95241084,Mocha,0,1,2
+244,Hawa Howe,Orchard,Thursday,96664738,Tea,5,3,3
+245,Yusha Weaver,Ang Mo Kio,Thursday,89023745,Tea,4,3,0
+246,Malika Montgomery,Ang Mo Kio,Wednesday,94781208,Tea,0,3,0
+247,Wiktor Santos,Orchard,Wednesday,89572311,Latte,2,5,1
+248,Sadie Li,Orchard,Thursday,96854946,Tea,1,3,0
+249,Florence Boyer,Serangoon,Monday,84411612,Caramel Latte,5,0,3
+250,Harleigh Williamson,Orchard,Thursday,96913868,Cappuccino,1,5,0
+251,Nannie Mcintyre,Ang Mo Kio,Tuesday,81705622,Americano,3,2,4
+252,Amani Hays,Serangoon,Tuesday,88177905,Americano,4,4,1
+253,Cali Lloyd,Jurong,Monday,95551656,americano,5,3,1
+254,Kaine Draper,Ang Mo Kio,Monday,6586199551,Tea,4,2,1
+255,Tylor Kaufman,Orchard,Wednesday,89637078,Americano,4,0,3
+256,Sumayyah Potter,Jurong,Fridayday,98815096,Cappuccino,4,2,2
+257,Dylon Curry,Ang Mo Kio,Friday,87648769,Tea,4,0,3
+258,Khia Farrow,Serangoon,Monday,81765557,Cappuccino,3,4,5
+259,Joey Benitez,Serangoon,Fridayday,6583722190,Tea,2,2,0
+260,Elijah White,Jurong,Fridayday,85995336,flat white,5,0,4
+261,Brady Mendez,Tampines,Wednesday,96181506,Cappuccino,2,2,1
+262,Sylvia Boyle,Ang Mo Kio,Tuesday,86664680,Tea,3,2,2
+263,Isabel Beltran,Tampines,Monday,86041369,Cappccino,1,5,1
+264,Stefan Plummer,Tampines,Thursday,85643609,Tea,3,2,1
+265,Jamie Robinson,Serangoon,Fridayday,6584886012,Tea,3,0,2
+266,Hakim Jennings,Jurong,Tuesday,94961745,Tea,2,4,1
+267,Mia Myers,AMK,Thursday,83361516,Cappuccino,1,5,0
+268,Sophie Simons,Tampines,Fridayday,82619262,Tea,1,4,3
+269,Khia Farrow,Tampines,Wednesday,6591476420,Americano,2,0,3
+270,Mohsin Simmons,Serangoon,Tuesday,93415070,Americano,5,5,0
+271,Stacy Bostock,Serangoon,Fridayday,89788581,Caramel Latte,4,4,2
+272,Alejandro Clegg,Serangoon,Fridayday,81833712,Americano,4,3,2
+273,Tarun Marks,Serangoon,Fridayday,99555262,Cappuccino,0,1,1
+274,Nelson Wilkinson,Ang Mo Kio,Monday,87252650,Tea,5,0,2
+275,Mahad Moran,Tampines,Thursday,98547327,Caramel Latte,5,0,5
+276,Nansi Parkes,Ang Mo Kio,Wednesday,81595244,Americano,1,0,3
+277,Nora Odom,Serangoon,Wednesday,82029925,Tea,0,2,1
+278,Leon Montes,Serangoon,Thursday,84294206,Cappuccino,3,2,1
+279,Giselle Weiss,Ang Mo Kio,Mon,89003227,Tea,5,5,0
+280,Lilliana Sharp,Serangoon,Monday,81358056,Cappuccino,1,3,0
+281,Freja Peck,Orchard,Wednesday,6583455462,Latte,1,5,3
+282,Sadie Li,Orchard,Wednesday,95612329,Tea,0,0,3
+283,Alesha George,Orchard,Wednesday,82421346,Americano,0,3,1
+284,Yvonne Hackett,Orchard,Fridayday,93508177,Cappuccino,4,0,3
+285,Maeve Parra,Serangoon,Thursday,83175281,Tea,3,4,2
+286,Saira Connolly,Jurong,Fridayday,95837704,Cappuccino,4,2,3
+287,Kaitlan Castillo,Tampines,Tuesday,87283769,Cappuccino,5,4,5
+288,Iain Clemons,Tampines,Tuesday,84522491,Americano,1,1,0
+289,Ralphy Booth,Serangoon,Monday,81314114,Late,3,5,2
+290,Nellie Nguyen,Ang Mo Kio,Monday,86879309,Tea,1,5,0
+291,Nathanael Knowles,Jurong,Monday,94594785,Tea,5,2,4
+292,Meadow Barry,Ang Mo Kio,Tuesday,85899810,Tea,5,0,3
+293,Mia Myers,Jurong,Thursday,84917177,Tea,5,4,2
+294,Aaliyah Lane,Tampines,Mon,88028521,Tea,2,1,2
+295,Beatrix Mccann,Orchard,Wednesday,93714651,Tea,1,1,3
+296,Jamie Robinson,Serangoon,Thursday,6587019035,Americano,5,2,2
+297,Brady Mendez,Serangoon,Fridayday,89677178,Tea,2,2,4
+298,Tobias Barrow,Tampines,Fridayday,89467599,Americano,1,4,2
+299,Zena Rawlings,Orchard,Fridayday,91295529,Cappuccino,5,5,5
+300,Selina Shah,Orchard,Monday,88476565,Tea,3,4,5
+301,Olivia Figueroa,Jurong,Fridayday,82059194,Tea,1,0,5
+302,Ewen Dominguez,Tampines,Wednesday,99967594,Caramel Latte,1,1,1
+303,Piotr Cresswell,Orchard,Tuesday,85757059,Americano,4,5,4
+304,Martina Newman,Serangoon,Tuesday,89925381,Caramel Latte,0,1,0
+305,Brody Wilkes,Ang Mo Kio,Thursday,97724085,Cappuccino,3,1,2
+306,Adeline Hodge,Orchard,Fridayday,97042833,Caramel Latte,3,4,2
+307,Pearl Gould,Ang Mo Kio,Thursday,88135200,Cappuccino,5,4,5
+308,Beatrix Mccann,Serangoon,Monday,92118063,Cappuccino,0,4,5
+309,Marley Griffith,Ang Mo Kio,Fridayday,85773937,Americano,5,2,3
+310,Yusha Weaver,Jurong,Fridayday,83551864,Tea,3,0,3
+311,Nelson Wilkinson,Ang Mo Kio,Fridayday,94617278,Tea,2,2,1
+312,Renee Boyle,Jurong,Fridayday,85193189,Cappuccino,5,4,4
+313,Umaiza Vang,Jurong,Thursday,87182784,Cappuccino,3,4,3
+314,Cali Lloyd,Tampines,Wednesday,83046533,Cappuccino,2,5,3
+315,Ruqayyah Mclean,Orchard,Monday,91122086,Tea,3,5,1
+316,Brady Mendez,Tampines,Wednesday,96492149,Mocha,3,4,0
+317,Freya Blevins,Tampines,Thursday,92423799,Cappuccino,4,3,1
+318,Usama Mcfarlane,Serangoon,Fridayday,97174710,Cappuccino,4,2,2
+319,Lilliana Beaumont,Serangoon,Fridayday,97297009,Tea,5,4,5
+320,Lara Parrish,Orchard,Thursday,6599145378,Tea,0,4,0
+321,Remy Strickland,Orchard,Monday,83485702,Tea,0,2,1
+322,Shabaz Jacobson,Ang Mo Kio,Tuesday,93055336,Caramel Latte,3,3,5
+323,Christy Mccallum,Jurong,Tuesday,82038507,Cappuccino,2,1,3
+324,Ariyah Brandt,Jurong,Fridayday,96732275,Tea,2,3,2
+325,Leon Montes,Jurong,Fridayday,96742554,Tea,3,3,2
+326,Mahad Moran,Ang Mo Kio,Monday,93056487,Cappuccino,0,4,2
+327,Amy-Louise Hardin,Tampines,Fridayday,99275766,Cappuccino,3,2,0
+319,Lilliana Beaumont,Serangoon,Fridayday,97297009,Tea,5,4,5
+328,Ariyah Brandt,Serangoon,Thursday,94797764,Tea,0,4,2
+329,Sophia Alston,Jurong,Thursday,83979869,Cappuccino,0,0,4
+330,Robert Kay,Tampines,Monday,83539619,Cappuccino,5,2,2
+331,Earl Whitley,Tampines,Friday,82659206,latte,4,1,5
+332,Khia Farrow,Tampines,,6595258527,Tea,4,2,2
+333,Gianni Fry,Ang Mo Kio,Friday,99293102,Americano,3,4,3
+334,Veer Legge,Serangoon,Thursday,93766190,Caramel Latte,0,1,5
+335,Hakim Jennings,Serangoon,Wednesday,94988404,Tea,4,0,5
+336,Abbigail Ramirez,Serangoon,Fridayday,97504537,Caramel Latte,0,5,5
+337,Iain Clemons,Jurong,Tuesday,93599720,Caramel Latte,0,5,1
+338,Byron Haney,Tampines,Wednesday,82672129,Latte,2,1,1
+339,Florence Frost,Orchard,Fridayday,82844169,Cappuccino,3,2,5
+340,Yusha Weaver,Jurong,Wednesday,89995574,Tea,0,3,1
+341,Sadie Li,Tampines,Wednesday,92055783,Tea,5,3,5
+342,Jess Branch,Jurong,Wednesday,96281421,Cappuccino,4,2,3
+343,Kourtney Rasmussen,Tampines,Wednesday,6599864456,americano,4,5,4
+344,Ralphy Booth,Serangoon,Fridayday,91034516,Capuccino,5,5,3
+345,Eric Bautista,Orchard,Tues,99254295,Double Espresso,4,4,5
+346,Ellesse Osborn,Tampines,Thurs ,6591631224,Americano,1,5,4
+347,Musab Tran,Ang Mo Kio,Monday,99125539,Tea,3,0,5
+348,Kaydon Ford,AMK,Thursday,94849917,Cappuccino,0,3,3
+349,Teagan Adam,Jurong,Thursday,82333736,tea,0,5,1
+350,Lillie-Mai Huynh,Serangoon,Fridayday,82283583,Tea,0,1,5
+351,Martina Newman,Ang Mo Kio,Monday,86443287,Caramel Latte,3,2,4
+352,Briony Richard,Orchard,Thurs ,91758970,Americano,3,2,5
+353,Malikah Sheridan,Serangoon,Fridayday,82909099,Caramel Latte,5,1,1
+354,Brody Wilkes,Orchard,Tuesday,99412943,Caramel Latte,3,1,2
+355,Murphy Appleton,Serangoon,Fridayday,88572499,Mocha,3,2,0
+356,Aaryan Clarkson,Jurong,Monday,84944938,Cappuccino,5,1,4
+357,Corban Donaldson,Ang Mo Kio,Friday,89008732,Americano,3,2,1
+358,Tonisha Welch,Jurong,Monday,96135903,latte,2,5,3
+359,Hendrix Searle,Ang Mo Kio,Fridayday,6583778243,Americano,2,2,5
+360,Lara Parrish,AMK,Thursday,93344668,Cappuccino,1,1,3
+361,Kelan Huffman,Jurong,Fridayday,97222156,Cappuccino,4,3,0
+362,Peter Berg,Ang Mo Kio,Thursday,96397084,Tea,3,3,3
+363,Earl Whitley,AMK,Wednesday,82081145,Cappuccino,5,3,1
+364,Rohit Allan,Serangoon,Fridayday,85485584,Tea,2,4,0
+365,Izabel Contreras,Jurong,Thursday,6583028584,Tea,2,3,4
+366,Zakariya Neale,Serangoon,Thursday,84514235,Americano,1,1,3
+367,Shelby Chadwick,Ang Mo Kio,Wednesday,99801854,DEspresso,4,1,4
+368,Leon Montes,Orchard,Monday,92427691,Cappuccino,0,3,0
+369,Lilia Porter,Orchard,Fridayday,91093097,Cappuccino,3,4,0
+370,Firat Dotson,Jurong,Tuesday,89553618,Cappuccino,4,0,1
+371,Abdurrahman Thorpe,Ang Mo Kio,Fridayday,6581093198,Double Expresso,1,3,3
+372,Siraj Mckeown,Ang Mo Kio,Monday,87034141,Caramel Late,4,2,3
+373,Samir Abbott,Ang Mo Kio,Wednesday,85101643,Caramel Latte,3,2,5
+374,Nataniel Power,Orchard,Tuesday,87045508,Tea,0,5,2
+375,Destiny Bassett,Serangoon,Monday,87081286,latte,0,5,2
+376,Diego Perez,Ang Mo Kio,Friday,99568759,Americano,2,2,2
+377,Kourtney Rasmussen,Tampines,Monday,83865210,Tea,0,5,4
+378,Cole Mac,Serangoon,Monday,85309609,Tea,5,2,3
+379,Mohamed Sweeney,Serangoon,Tuesday,86571448,Americano,2,1,1
+380,Dalia Travers,Serangoon,Friday,98829943,Double Espresso,4,4,1
+381,Trey Haley,Tampines,Fridayday,83092113,Tea,2,5,1
+382,Khia Farrow,Ang Mo Kio,Tuesday,6593359765,Americano,3,5,4
+383,Montel Atkins,Jurong,Wednesday,97674592,Cappuccino,2,4,0
+384,Thomas Fridaytz,Jurong,Tuesday,98184729,Cappuccino,3,2,4
+385,Una Legge,Tampines,Fridayday,86173777,Tea,2,5,1
+386,Tamika Gamble,Ang Mo Kio,Fridayday,89003901,Double Espresso,4,3,0
+387,Earl Whitley,Jurong,Wednesday,99458656,Americano,1,0,0
+388,Kaydon Thornton,Jurong,Monday,97891101,Tea,1,1,4
+389,Maha Ortega,Tampines,Fridayday,87885588,Americano,1,1,0
+390,Jamie Robinson,Tampines,Fridayday,6591849844,Latte,5,1,3
+391,Olivia Figueroa,Tampines,Wednesday,87018593,Latte,3,2,4
+392,Ava-Rose Small,Serangoon,Thursday,84999442,Tea,1,3,2
+393,Martina Newman,Tampines,Thursday,95822795,Cappuccino,5,0,0
+394,Ella-Grace Cross,Jurong,Tues,98139541,Americano,1,5,4
+395,Hendrix Searle,Serangoon,Thursday,81975054,Tea,2,0,0
+396,Amar Healy,Ang Mo Kio,Wednesday,88042256,Flat white,5,1,1
+397,Lainey Sheppard,Tampines,Thursday,92624537,Caramel Latte,3,2,2
+395,Hendrix Searle,Serangoon,Thursday,81975054,Tea,2,0,0
+398,Gavin Romero,Orchard,Monday,93185990,Cappuccino,3,4,2
+399,Dewi Merrill,Ang Mo Kio,Wednesday,88995475,Cappaccino,5,3,0
+400,Martina Newman,Ang Mo Kio,Wednesday,93635851,Latte,5,2,4
+401,Cohen Ridley,Jurong,Monday,84249351,Cappuccino,3,0,1
+402,Zander Rich,Jurong,Fridayday,84719287,Cappuccino,5,0,0
+403,Isabel Beltran,Ang Mo Kio,Fridayday,88086652,Americano,4,2,4
+404,Cayden Byrne,Jurong,Monday,94347863,Cappuchino,4,5,4
+405,Nour Herman,Tampines,Monday,97647883,Tea,0,0,3
+406,Kaydon Thornton,Serangoon,Tuesday,81969534,Americano,2,5,4
+407,Liyah Mcloughlin,Tampines,Thursday,97652145,Tea,4,5,0
+408,Coral Mahoney,Serangoon,Monday,84158406,Latte,1,2,1
+409,Woodrow Mccall,Ang Mo Kio,Wednesday,95327491,Americano,3,3,2
+410,Maleeha Horne,Serangoon,Fridayday,87903791,Tea,0,1,5
+411,Lilith Velez,Serangoon,Tuesday,81712348,Americano,4,1,5
+412,Diego Perez,Serangoon,Thursday,95125121,Cappuccino,1,0,3
+413,Helena Bob,Ang Mo Kio,Thursday,81658684,Tea,4,1,4
+414,Selin Keller,Tampines,Tuesday,88001368,Cappuccino,3,1,1
+415,Sylvia Boyle,Jurong,Thursday,82844084,Tea,3,2,4
+416,Antonina Matthams,Serangoon,Monday,91077206,Americano,1,2,5
+417,Shakira Mcdonnell,Ang Mo Kio,Thursday,96012582,Americano,2,5,5
+418,Kaydon Thornton,Jurong,Tuesday,97723792,Caramel Latte,1,,2
+419,Malaki Oconnor,Ang Mo Kio,Thursday,83999277,Caramel Latte,3,5,2
+420,Leigha Jeffery,Ang Mo Kio,Tuesday,6582648513,Americano,4,1,5
+421,Brady Mendez,Orchard,Fridayday,93626291,Tea,2,0,3
+422,Nelson Wilkinson,Ang Mo Kio,Fridayday,84883164,Tea,1,3,2
+423,Maddison Neal,Orchard,Tuesday,94276773,Caramel Latte,5,4,0
+424,Hakim Jennings,Ang Mo Kio,Thursday,81324143,Double Espresso,1,0,2
+425,Lynda Galvan,Orchard,Tuesday,94598852,Caramel Latte,2,2,1
+426,Franklin Crane,Serangoon,Thursday,6587138122,Americano,2,5,2
+427,Ellie-Louise Hopper,Jurong,Thursday,96433480,Cappuccino,1,3,4
+428,Abbie Graham,AMK,Thursday,87707481,Cappuccino,2,1,0
+429,Rumaysa Betts,Jurong,Thursday,82891812,Cappuccino,3,4,3
+430,Dalia Travers,Ang Mo Kio,Monday,99649894,Cappuccino,4,3,4
+431,Margaret Cordova,Tampines,Wednesday,94246219,Tea,4,2,5
+432,Sammy Mercer,Tampines,Wednesday,94055871,Double Espresso,3,4,3
+433,Gideon Rivera,Tampines,Monday,84082038,Cappuccino,1,0,4
+434,Ayrton Mendoza,Ang Mo Kio,Tuesday,94942443,Americano,0,3,4
+435,Elias Robbins,Serangoon,Friday,95345178,Americano,1,0,2
+436,Usaamah Dillard,Orchard,Tuesday,99507274,Double Espresso,1,4,2
+437,Sheridan Parsons,Tampines,Fridayday,82893466,Latte,5,4,0
+438,Mia Myers,Jurong,Tuesday,95196909,Americano,0,1,3
+439,Radhika Hensley,Orchard,Monday,96318761,Tea,2,5,5
+440,Nadeem Mooney,Serangoon,Wednesday,97001471,Latte,3,4,5
+441,Jaxon Carty,Ang Mo Kio,Tuesday,95678474,Double Espresso,2,5,5
+442,Arielle Forrest,Ang Mo Kio,Thursday,85029451,Tea,1,1,5
+443,Adrian Mills,Tampines,Monday,85947128,Double Espresso,3,1,1
+444,Reis Cousins,Orchard,Fridayday,86162901,Americano,3,1,0
+445,Suhail Sparrow,Ang Mo Kio,Thursday,89721843,Double Espresso,1,4,5
+446,Jayda Boyd,Orchard,Tuesday,83899446,Cappuccino,0,0,0
+447,Remy Mcclain,Orchard,Fridayday,82082694,Cappuccino,0,2,4
+448,Joey Benitez,Tampines,Wednesday,6583856069,Latte,4,3,3
+449,Laibah Moody,Ang Mo Kio,Fridayday,6594551418,Americano,4,3,1
+450,Akram Mccullough,Tampines,Tuesday,81265763,Cappuccino,5,0,5
+451,Amritpal Nicholls,Orchard,Thursday,96057298,Cappuccino,5,1,0
+452,Kathryn Barlow,Tampines,,96188098,Latte,1,5,2
+453,Vikki Joyce,Ang Mo Kio,Wednesday,91327170,Cappuccino,5,1,4
+454,Courtnie Goldsmith,Serangoon,Monday,82617152,Cappuccino,2,4,4
+455,Ronaldo Solomon,Serangoon,Monday,87544831,Double Espresso,1,5,5
+456,Jago Chadwick,Serangoon,Thursday,6581765166,Americano,0,0,5
+457,Martina Newman,Tampines,Fridayday,93365196,Tea,1,0,3
+458,Leela Rodgers,Serangoon,Tuesday,6585926345,Americano,4,2,1
+459,Melanie Kavanagh,Jurong,Monday,92415715,Tea,4,0,1
+460,Cristiano Roche,Tampines,Monday,93225141,Cappuccino,4,4,2
+461,Amy-Louise Hardin,Jurong,Monday,94171263,Cappuccino,3,5,2
+462,Shanice Washington,Ang Mo Kio,Thursday,91234731,Latte,3,1,5
+463,Simrah Higgins,Tampines,Fridayday,91157998,Tea,2,0,5
+464,Caitlyn Villegas,Jurong,Wednesday,83118835,Caramel Latte,3,1,0
+465,Cayden Byrne,Tampines,Wednesday,95163774,Cappuccino,3,5,5
+466,Jazmin Montgomery,Serangoon,Monday,89534933,American,1,3,5
+467,Pranav Hutchings,Jurong,Tuesday,96939329,Moca,1,0,3
+468,Amy-Louise Hardin,Orchard,Fridayday,96933671,Tea,5,5,5
+469,Ralphy Booth,Orchard,Monday,94737131,Americano,3,4,1
+470,Annabell Edwards,Orchard,Thurs ,85438690,Tea,3,4,5
+471,Luther Hartman,Serangoon,Monday,94388346,Americano,3,0,1
+472,Renesmee Adkins,Ang Mo Kio,Tuesday,89187182,Americano,5,5,3
+473,Clive Duran,Ang Mo Kio,Monday,93674062,Americano,2,3,1
+474,Clive Duran,Ang Mo Kio,Thurs ,95645754,Latte,0,3,0
+475,Talha Spears,Serangoon,Tuesday,96532459,Americano,4,5,4
+476,Maja Daugherty,Serangoon,Thursday,87478113,Americano,2,1,1
+477,Ariyah Brandt,Tampines,Fridayday,84904842,Tea,0,5,2
+478,Christy Mccallum,Jurong,Friday,89152795,americana,1,4,1
+479,Simeon Johnson,Orchard,Fridayday,91811008,Tea,3,0,3
+480,Khia Farrow,Tampines,Monday,6587109321,Latte,4,3,4
+481,Kelan Huffman,Jurong,Tuesday,6584799673,Latte,2,4,2
+482,Nabeel Feeney,Serangoon,Fridayday,97994597,Cappuccino,3,5,1
+483,Jayda Boyd,Tampines,Monday,89016591,Late,4,5,2
+484,Lila Mcdowell,Jurong,Wednesday,92246595,Caramel Latte,1,1,4
+485,Brody Wilkes,Orchard,Monday,6587942760,Tea,2,5,0
+486,Destiny Bassett,Tampines,Wednesday,93386281,Tea,5,5,2
+487,Dexter Savage,Ang Mo Kio,Monday,88023509,Americano,3,2,5
+488,Wilma Buckley,Serangoon,Thursday,81183602,Double Espresso,5,2,0
+489,Kourtney Rasmussen,Ang Mo Kio,Fridayday,6581133427,Americano,1,3,4
+490,Issac Dolan,Ang Mo Kio,Monday,8560189,tea,5,4,3
+491,Aden Mccarthy,Orchard,Thursday,87619181,Caramel Latte,0,1,1
+492,Tristan Barrow,Orchard,Wednesday,81897444,Americano,5,2,4
+493,Jake Short,Tampines,Fridayday,89103490,Cappuccino,1,5,1
+494,Amalie Greaves,Jurong,Wednesday,82713706,American,0,5,5
+495,Waqas Cottrell,Jurong,Wednesday,88317094,Cappuccino,2,2,3
+496,Collette White,Orchard,Monday,89301955,Latte,3,3,0
+497,Zaid Kidd,Tampines,Thursday,94479904,Tea,5,2,5
+498,Jamie Robinson,Serangoon,Monday,94646183,Cappuccino,4,3,5
+499,Ariyah Brandt,Orchard,Thursday,95749474,Tea,0,4,0
+500,Zaid Kidd,Serangoon,Wednesday,83072340,Tea,1,4,3
+501,Zander Aldred,Tampines,Wednesday,92785031,Cappuccino,1,4,4
+502,Sonya Dunlop,Jurong,Thursday,96178888,Caramel Latte,5,1,0
+503,Sienna Bannister,Serangoon,Monday,87864767,Tea,0,3,1
+504,Iain Clemons,Ang Mo Kio,Fridayday,86306526,Double Espresso,4,2,5
+505,Vivien Mcgregor,Jurong,Monday,82069172,Cappuccino,1,3,4
+506,Jean-Luc Reyes,Serangoon,Tuesday,6594497794,Americano,1,0,2
+507,Husna Blevins,Tampines,Monday,99882595,Cappuccino,1,0,5
+508,Nylah Harper,Jurong,Thursday,96891101,Cappuccino,4,4,4
+509,Nelson Wilkinson,Jurong,Monday,91731495,Tea,4,3,3
+510,Zaid Kidd,Tampines,Fridayday,84285679,Tea,1,4,5
+511,Annabell Edwards,Jurong,Fridayday,94443762,Cappuccino,0,0,1
+512,Susan Wilcox,Serangoon,Thursday,99751897,Caramel Latte,5,1,0
+513,Elodie Tierney,Serangoon,Friday,93781563,Double Espresso,2,2,2
+514,Maisy Walton,Tampines,Monday,95349823,Americano,5,0,0
+515,Samson Stout,Ang Mo Kio,Thursday,94547308,Cappaccino,4,1,0
+516,Brady Mendez,Jurong,Tuesday,96209385,americana,5,4,3
+517,Laila Spooner,Serangoon,Tuesday,92567549,Cappuccino,0,,0
+518,Cali Lloyd,Orchard,Wednesday,94146653,Tea,2,2,0
+519,Myla Redman,Serangoon,Tuesday,96106234,Tea,1,4,3
+520,Amar Healy,Serangoon,Fridayday,98314569,Tea,0,2,5
+521,Kelan Huffman,Serangoon,Wednesday,89058600,Caramel Latte,4,0,2
+522,Iris Mcnamara,Ang Mo Kio,Fridayday,98971508,Tea,3,4,1
+523,Mcauley Jackson,Tampines,Monday,86769228,Double Espresso,3,4,2
+524,Kanye Piper,Serangoon,Tuesday,88521713,Tea,1,0,3
+525,Chloe-Louise Goodman,Tampines,Wednesday,96175966,Caramel Latte,2,4,0
+526,Hayden Nicholls,Jurong,Fridayday,82776150,tea,5,4,3
+527,Lynda Galvan,Orchard,Thursday,92706099,Clatte,4,4,2
+528,Saara Rawlings,Ang Mo Kio,Fridayday,94574641,Americano,0,1,5
+529,Khia Farrow,Jurong,Monday,99112963,Cappuccino,5,4,3
+530,Madelaine Beaumont,Jurong,Wednesday,98215045,Cappuccino,5,1,1
+531,Louise Berry,Serangoon,Wednesday,97509625,Americano,5,4,1
+532,Adina Keenan,Jurong,Thursday,93924209,americano,0,0,5
+533,Hari Parra,Jurong,Tuesday,84043758,latte,3,1,0
+534,Elliot Hackett,Ang Mo Kio,Thursday,93358111,Double Espresso,5,3,0
+535,Olivia Figueroa,Orchard,Monday,91488018,Caramel Latte,0,4,1
+536,Kathy Wiggins,Tampines,Thursday,83441653,Latte,1,0,4
+537,Loui Dunne,Jurong,Tuesday,88066083,Mocha,2,4,0
+538,Adrian Mills,Orchard,Monday,91644172,Caramel Latte,2,5,5
+539,Olivia Figueroa,Jurong,Fridayday,83251287,Americano,4,3,5
+540,Siyana Hardin,Orchard,Monday,83465329,Mocha,4,3,4
+541,Noel Hayward,Tampines,Thursday,96162791,Cappuchino,0,5,4
+542,Izabel Contreras,Ang Mo Kio,Monday,6581108771,Tea,3,0,1
+543,Isabel Beltran,Serangoon,Monday,84091216,Tea,3,4,5
+544,Cali Lloyd,Serangoon,Monday,82542559,Cappuccino,2,5,1
+545,Leilani Mckinney,Tampines,Fridayday,88298881,Cappuccino,1,0,0
+546,Nelson Wilkinson,Serangoon,Wednesday,84064038,Cappuccino,5,2,3
+547,Gregor Richard,Ang Mo Kio,Thursday,94323166,Cappuccino,2,1,1
+548,Harleigh Currie,Serangoon,Mon,86081979,Tea,3,0,3
+549,Lynda Galvan,Orchard,Tuesday,83331723,Dble Espresso,5,5,2
+550,Lynda Galvan,Orchard,Thursday,98345583,Tea,3,5,0
+551,Taiba Rice,Tampines,Wednesday,94295603,Cappuccino,1,1,0
+552,Amna Schroeder,Orchard,Fridayday,88992237,Tea,0,1,4
+553,Mia Myers,Tampines,Fridayday,96974002,Cappuccino,4,5,5
+554,Saba Booker,Tampines,Wednesday,87346782,Tea,0,5,3
+555,Sadie Li,Ang Mo Kio,Thursday,81934390,Tea,2,1,0
+556,Kelan Huffman,Orchard,Thursday,81138492,Cappuccino,1,5,5
+557,Darrell Broughton,Ang Mo Kio,Fridayday,84691090,Cappuccino,0,4,1
+558,Kourtney Rasmussen,Serangoon,Monday,92321837,Cappuccino,0,3,5
+559,Shayaan Houghton,AMK,Monday,85409557,Cappuccino,2,1,1
+560,Dalia Travers,Serangoon,Thurs ,82918755,Tea,1,1,4
+561,Duncan Fernandez,Jurong,Thursday,87754869,Caramel Latte,1,1,5
+562,Selin Prince,Ang Mo Kio,Wednesday,91308413,Latte,2,4,5
+563,Gaia Gomez,Serangoon,Tues,89866158,Tea,5,5,0
+564,Sabina Gross,Tampines,Monday,83004316,americano,2,4,0
+565,Lillie-Mai Huynh,Serangoon,Thursday,82131118,Cappuccino,3,4,5
+566,Beatrix Mccann,Orchard,Monday,95562017,Americano,2,3,5
+567,Yusha Weaver,Serangoon,Thursday,91061141,Tea,2,0,5
+568,Cavan John,Serangoon,Tuesday,85023074,Cappuccino,2,3,0
+569,Harleigh Williamson,Jurong,Thursday,81397612,Americano,2,2,5
+570,Aria Hodge,Serangoon,Monday,98603919,Americano,4,0,5
+571,Mohammod Finnegan,Ang Mo Kio,Monday,92827456,Tea,1,3,1
+572,Amar Healy,Orchard,Monday,97605173,Caramel Latte,0,3,0
+573,Hendrix Searle,Orchard,Mon,94802015,Tea,4,3,1
+574,Reuben Welsh,Tampines,Tuesday,93516501,Americano,1,0,0
+575,Ariyah Brandt,Orchard,Fridayday,89717461,Cappuccino,4,1,3
+576,Jayda Boyd,Ang Mo Kio,Fridayday,6597947831,Tea,3,5,2
+577,Amar Healy,Serangoon,Wednesday,84004516,Latte,4,4,3
+578,Graeme Howe,Serangoon,Tuesday,83394922,Americano,1,5,3
+579,Marni Berry,Serangoon,Thursday,86559457,Double Espresso,0,2,3
+580,Bibi Mcneil,Jurong,Monday,99632426,Caramel Latte,3,4,2
+581,Marta Petty,Jurong,Wednesday,82062851,Cappuccino,4,1,4
+582,Elodie Tierney,Jurong,Monday,92885744,Latte,3,3,3
+583,Jiya Beck,Serangoon,Thursday,6586907847,Americano,3,1,0
+584,Karl Mack,Serangoon,Wednesday,6598143240,Tea,3,1,1
+585,Hayden Nicholls,Ang Mo Kio,Tuesday,83246683,Cappuccino,3,2,4
+586,Erika Ridley,Ang Mo Kio,Thursday,84009983,Latte,3,2,2
+587,Isabel Beltran,Jurong,Tuesday,89881909,Caramel Latte,1,1,0
+588,Zak Adamson,AMK,Monday,96977926,Cappuccino,2,5,3
+589,Kaitlan Castillo,Ang Mo Kio,Wednesday,6597292606,Americano,0,3,2
+590,Della Pratt,Jurong,Monday,91991829,Caramel Latte,2,0,4
+591,Rohit Correa,Jurong,Monday,84013444,Cappuccino,3,5,0
+592,Brody Wilkes,Serangoon,Thursday,84162237,Cappuccino,4,2,3
+593,Heather Enriquez,Tampines,Mon,86083232,Tea,5,4,1
+594,Ella-Grace Cross,AMK,Tuesday,89144062,Cappuccino,3,4,2
+595,Olivia Figueroa,Jurong,Thursday,89893125,Americano,3,1,0
+596,Drew Hamer,Orchard,Thurs ,89967540,Americano,2,1,3
+597,Manal Lyons,Orchard,Thursday,87528983,Double Espresso,0,4,2
+598,Keeley Knapp,Tampines,Wednesday,6595267216,Tea,4,4,2
+599,Olivia Figueroa,Jurong,Tuesday,97437064,americana,4,1,2
+600,Yanis Mcbride,AMK,Tuesday,86699899,Cappuccino,3,3,1
+601,Phillipa Shepherd,Serangoon,Tuesday,96635033,Tea,5,1,3
+602,Alaya Ashton,Serangoon,Fridayday,95384397,Tea,3,3,3
+603,Diego Perez,Serangoon,Fridayday,85901801,Cappuccino,2,5,1
+604,Anjali Ware,Orchard,Thursday,99476494,Latta,4,4,4
+605,Vihaan Zhang,Ang Mo Kio,Monday,83226231,Cappuccino,1,5,4
+606,Iris Mcnamara,Jurong,Tuesday,93186483,Cappuccino,0,5,3
+607,Lucien Mcclure,Tampines,Tuesday,99965957,Caramel Latte,1,0,0
+608,Hayden Nicholls,Tampines,Mon,6582579078,Mocha,3,3,0
+609,Marsha Nixon,Tampines,Fridayday,92591463,Latte,2,3,3
+610,Vienna Hill,Tampines,Fridayday,99198289,Americano,4,5,5
+611,Shirley Bowes,Jurong,Tuesday,87852249,Americano,4,3,3
+612,Ariyah Brandt,Ang Mo Kio,Tuesday,88234731,Tea,4,1,5
+613,Alejandro Clegg,Jurong,Fridayday,91061534,Latte,2,4,0
+614,Joao Wallis,Tampines,Wednesday,6595792856,Americano,1,5,2
+615,Kashif Figueroa,Ang Mo Kio,Thursday,6582887085,Americano,3,1,5
+616,Uzma Devlin,Tampines,Fridayday,82483507,Cappuccino,4,3,4
+617,Juliet Oneil,Tampines,Tuesday,98312051,Cappuccino,0,1,0
+618,Paula Fountain,Ang Mo Kio,Wednesday,94804364,Cappuccino,5,4,3
+619,Ronaldo Solomon,Jurong,Tuesday,89361744,Tea,5,1,1
+620,Dalia Travers,AMK,Wednesday,96951321,Cappuccino,5,1,0
+621,Wallace Daniel,Tampines,Wednesday,97395654,Cappuccino,2,0,5
+622,Ronaldo Solomon,Orchard,Monday,83037895,Cappuccino,2,2,5
+623,Konnor Hamilton,Ang Mo Kio,Fridayday,87203915,Cappuccino,3,5,5
+624,Malaikah Duggan,Jurong,Wednesday,89217379,Caramel Latte,2,1,4
+625,Joey Benitez,Jurong,Fridayday,91909724,Cappuchino,2,2,0
+626,Nate Raymond,Tampines,Fridayday,98648232,Americano,1,1,5
+627,Sylvia Boyle,Serangoon,Fridayday,87829967,tea,1,0,2
+628,Cole Mac,Tampines,Tuesday,94125316,Cappuccino,0,5,3
+629,Freyja Bains,Orchard,Friday,81654401,americano,0,1,2
+630,Brody Wilkes,Serangoon,Thurs ,91531408,Tea,5,5,3
+631,Jamal Garrison,Ang Mo Kio,Fridayday,6595707050,Americano,2,4,3
+632,Sydney Corbett,Tampines,Fridayday,94526931,Tea,5,3,3
+633,Kourtney Rasmussen,Jurong,Fridayday,96896246,Flat White,1,0,4
+634,Christy Mccallum,Tampines,Thurs ,91537093,Americano,4,0,2
+635,Kaira Moses,Tampines,Wednesday,6588025963,Americano,0,5,3
+636,Amir Dorsey,Jurong,Tuesday,81151585,Caramel Latte,2,2,2
+637,Jazmine Parker,Ang Mo Kio,Tuesday,93841758,Americano,4,4,2
+638,Fannie Guthrie,Jurong,Thursday,93685483,Cappuccino,5,1,0
+639,Eira Watt,Orchard,Wednesday,99854823,Tea,4,5,1
+640,Bea Driscoll,Ang Mo Kio,Wednesday,91768796,Americano,5,5,1
+641,Usama Frost,Orchard,Wednesday,98487890,Tea,5,5,4
+642,Darrell Broughton,Tampines,Thurs ,82203106,Double Espresso,0,1,3
+643,Juliet Cole,Ang Mo Kio,Fridayday,6593358865,Double Espresso,2,5,5
+644,Ronaldo Solomon,Jurong,Tuesday,89566082,Dble Espresso,3,4,3
+645,Suman Macdonald,Orchard,Tuesday,92014487,Cappuccino,3,3,0
+646,Jayda Boyd,Orchard,Thursday,99897030,Moca,4,3,3
+647,Abbie Graham,Ang Mo Kio,Monday,82533620,Americano,3,5,0
+648,Jean-Luc Reyes,Ang Mo Kio,Tuesday,6589855694,Tea,4,2,2
+649,Zeeshan Keeling,Serangoon,Fridayday,94533508,latte,5,2,3
+650,Monica Hardy,Ang Mo Kio,Tuesday,96702339,Latte,5,1,4
+651,Malcolm Collier,Ang Mo Kio,Tuesday,86314649,Latte,4,3,5
+652,Mahad Moran,Orchard,Tuesday,95369250,Cappuccino,2,3,0
+653,Destiny Albert,Serangoon,Thurs ,82536275,American,4,4,5
+654,Mccauley Gibbons,Jurong,Monday,85097640,Cappuccino,4,,2
+655,Elodie Tierney,AMK,Thursday,89962297,Cappuccino,0,3,0
+656,Sylvia Boyle,Tampines,Monday,89818875,Tea,4,3,3
+657,Sol Calvert,Jurong,Tuesday,88857810,Cappuccino,1,2,1
+658,Shiv Aguirre,Ang Mo Kio,Thursday,93797642,Cappuccino,2,0,4
+659,Giselle Landry,Serangoon,Thursday,99013048,Tea,4,4,1
+660,Olivia Figueroa,Jurong,Fridayday,87985279,Tea,1,5,5
+661,Nelson Wilkinson,Jurong,Tuesday,99666962,Cappuccino,1,3,2
+662,Zaine Berger,Tampines,Wednesday,84293512,Cappuccino,0,3,0
+663,Simeon Suarez,Tampines,Fridayday,87184275,Tea,0,1,0
+664,Ellise Wilkins,Serangoon,Wednesday,81416490,Americano,0,5,3
+665,Ariyah Brandt,Ang Mo Kio,Wednesday,82462753,Tea,2,5,2
+666,Amy-Louise Hardin,Ang Mo Kio,Fridayday,88374614,Tea,5,0,0
+667,Alejandro Clegg,Tampines,Thursday,89873288,Tea,0,1,5
+668,Drew Hamer,Serangoon,Tues,83979461,Americano,3,4,3
+669,Mahad Moran,Serangoon,Monday,82289625,Tea,3,1,0
+670,Annabell Edwards,Jurong,Fridayday,97149422,Cappuccino,4,4,3
+671,Tina Brandt,Serangoon,Monday,94176865,Cappuccino,4,3,0
+672,Jean-Luc Reyes,Tampines,Monday,6591342768,Americano,3,0,2
+673,Reuben Welsh,Serangoon,Thursday,86381391,Cappuccino,0,2,5
+674,Tegan Becker,Orchard,Tuesday,91081036,Tea,0,4,5
+675,Frederick Preston,Ang Mo Kio,Monday,6582834830,Tea,2,0,1
+676,Olivia Figueroa,Orchard,Wednesday,87387794,Cappuccino,0,4,4
+677,Enya Hodges,Serangoon,Wednesday,94263648,Americano,4,5,3
+678,Maja Connelly,Serangoon,Wednesday,96542942,Tea,4,2,2
+679,Yvie Page,Ang Mo Kio,Fridayday,95383853,Americano,0,5,4
+680,Zaid Kidd,Serangoon,Wednesday,96951860,Tea,5,0,4
+681,Manal Lyons,Jurong,Monday,98565318,Caramel Latte,2,0,4
+682,Aaryan Clarkson,Tampines,Tuesday,88517314,americano,1,5,3
+683,Barry Gallagher,Ang Mo Kio,Thursday,92835832,Tea,3,0,4
+684,Szymon Grimes,Tampines,Tuesday,83777928,Mocha,2,5,3
+685,Raheel Connelly,Orchard,Monday,98734093,Americano,,,4
+686,Ivor Lloyd,Serangoon,Wednesday,96833070,Caramel Latte,0,2,0
+687,Nelson Wilkinson,Tampines,Wednesday,97779157,Cappuccino,2,1,2
+688,Cassandra Hanna,Jurong,Fridayday,94533173,Americano,4,2,0
+689,Olivia Figueroa,Serangoon,Thursday,99082568,Tea,0,2,0
+690,Elli Cole,Ang Mo Kio,Tues,81448589,Tea,5,5,4
+691,Sahar Hernandez,Ang Mo Kio,Wednesday,92481705,Cappuccino,1,1,4
+692,Ariyah Brandt,Ang Mo Kio,Wednesday,83875951,Tea,2,2,1
+693,Junayd Waters,Orchard,Tuesday,87366692,Caramel Latte,3,4,1
+694,Husna Pham,Orchard,Tuesday,6591248173,Tea,1,4,5
+695,Lois Bell,Jurong,Fridayday,84581886,Cappuccino,4,4,0
+696,Keeley Lowery,Jurong,Wednesday,96873017,Cappuccino,5,2,3
+697,Tyreese Cain,Ang Mo Kio,Fridayday,92794995,Tea,5,5,3
+698,Tyreese Gilmore,Orchard,Thursday,83747499,Latte,2,3,0
+699,Yosef Swan,Orchard,Thursday,81169031,Tea,3,2,0
+700,Sunil Conner,Serangoon,Tuesday,85364563,Caramel Latt,3,2,2
+701,Lillia Dodson,Jurong,Thursday,81225127,Tea,0,2,0
+702,Priyanka Brennan,Ang Mo Kio,Thursday,81781070,Latte,5,0,3
+703,Khia Farrow,Orchard,Thursday,6598025941,American,1,2,5
+704,Iain Clemons,Orchard,Monday,82835368,Tea,2,1,3
+705,Stuart Walter,Jurong,Thursday,84595462,Cappuccino,3,3,4
+706,Alejandro Clegg,Tampines,Fridayday,88566400,Cappuccino,2,1,2
+706,Alejandro Clegg,Tampines,Fridayday,88566400,Cappuccino,2,1,2
+707,Cormac Allen,Orchard,Wednesday,98327960,Cappuccino,4,4,1
+708,Gail Pennington,Orchard,Tuesday,86048874,Cappuccino,4,3,2
+709,Christy Mccallum,Tampines,Tuesday,95393085,Cappuccino,2,1,1
+710,Sara Hancock,Tampines,Wednesday,86035223,Double Expresso,2,4,3
+711,Scott Mcfadden,Tampines,Tuesday,84522767,Cappuccino,3,4,0
+712,Tayyab Wickens,Jurong,Fridayday,87565405,Cappaccino,2,5,2
+713,Amelia Todd,Orchard,Tuesday,82978352,Americano,4,3,5
+714,Kate Halliday,Orchard,Wednesday,97912238,Cappuccino,3,0,3
+715,Vera Kramer,Orchard,Tuesday,99838217,latte,5,1,1
+716,Kaitlan Castillo,Ang Mo Kio,Wednesday,6583488742,Americano,4,1,3
+717,Pedro Murray,Tampines,Fridayday,81234840,Cappuccino,1,2,4
+718,Lana Marsden,Orchard,Thursday,6588782651,Americano,3,5,1
+719,Charleigh Olson,Ang Mo Kio,Tues,88877563,Tea,5,2,3
+720,Jasper Combs,Ang Mo Kio,Thursday,97848757,Caramel Latte,1,,5
+721,Martina Newman,Jurong,Thursday,82085153,Tea,1,4,5
+722,Sadie Li,Serangoon,Wednesday,89512858,Tea,5,0,4
+723,Elijah White,Jurong,Tuesday,82675967,Tea,1,3,5
+724,Conall Rowland,Jurong,Wednesday,81162013,American,3,2,4
+725,Darrell Broughton,Jurong,Fridayday,93331466,Cappuccino,4,2,2
+726,Essa Whitehouse,Orchard,Tues,83799036,Tea,5,2,3
+727,Fern Buckley,Orchard,Monday,92561839,americana,5,2,4
+728,Yusha Weaver,Orchard,Fridayday,94427652,tea,0,3,5
+729,Ronaldo Solomon,Ang Mo Kio,Wednesday,84913513,Tea,5,2,5
+730,Eilish Donnelly,Ang Mo Kio,Friday,81011032,Tea,0,4,1
+731,Tomos Mckee,Serangoon,Wednesday,84497025,Americano,5,5,1
+732,Diego Perez,Tampines,Monday,6582648241,Latte,4,5,3
+733,Tabitha Durham,Ang Mo Kio,Tuesday,82038495,Caramel Latte,1,4,0
+734,Kevin Matthews,Ang Mo Kio,Thursday,6589516206,Americano,1,1,5
+735,Lynda Galvan,Orchard,Wednesday,95849816,Cappuccino,0,2,0
