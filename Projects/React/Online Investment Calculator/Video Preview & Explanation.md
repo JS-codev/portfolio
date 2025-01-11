@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/32b51621-ec40-4d6c-95ef-ec73d2001bae
 
 - Create a `Header.jsx` for title (under `Src/components/Header.jsx`)
 - `index.css` contains global styles that can be applied to define overall styling of an app. This styling for elements includes body, headings, link, container styles.
-- `index.css` file contains `#header` style that has `text-align: center`
+- For example, we can use the `#header` style with `text-align: center` to center the title and logo.
     - To enable styling for `#header`, add `id='header'` inside of opening `<header>` tag
 ```jsx
 //Header.jsx
