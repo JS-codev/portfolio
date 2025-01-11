@@ -121,8 +121,8 @@ export function calculateInvestmentResults({
 ```
 
 **Step 4: Display the caluclated results**
-- Import the function and objects from `investment.js` into `results.jsx `
-- Then calculate the resultsData and initialInvestment data
+- Import the calculated results from `investment.js` into `results.jsx `
+- Then calculate the `resultsData` and `initialInvestment` data
 ```jsx
 //results.jsx
 import { calculateInvestmentResults, formatter } from '../util/investment.js';
