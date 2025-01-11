@@ -16,7 +16,7 @@ import logo from '../assets/investment-calculator-logo.png';
 export default function Header() {
     return (
     <header id='header'> 
-    {/* Above id applies text-align: center that will move title to center*/}
+    {/* Above id applies text-align: center that will move title & logo to center*/}
         <img src={logo} alt='Logo showing money bag :D' />
         <h1>Investment Calculator</h1>
     </header>
