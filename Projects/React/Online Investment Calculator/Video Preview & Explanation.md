@@ -40,9 +40,9 @@ export default App
 - Create `UserInput.jsx` that returns a section that takes in user-input in numerical for variables of `initialInvestment`, `annualInvestment`, `expectedReturn`, and `duration`. 
     - `initialInvestment` represents the amount of money initially invested/deposited at the start of the investment.
     - `annualInvestment` indicates the additional amount of money contributed to the investment yearly.
-    - `expectedReturn` represents the expected annual rate of return on the investment (%)
+    - `expectedReturn` represents the expected annual rate of return on the investment (%).
     - `duration` represents the duration of the investment in years.
-- Create a variable `handleInputChange` that allows the user to input values into the 4 input fields
+- Create a variable `handleInputChange` that allows the user to input values into the 4 input fields.
 
 ```jsx
 //UserInput.jsx
@@ -165,6 +165,17 @@ export default function Results({ input }) { //takes in UserInput values from Ap
         </table>
     );
 ```
+- The result table will produce following attributes: `Year`, `Investment Value`, `Interest (Year)`, `Total Interest`, and `Invested Capital`
+    - `Year`: Displays the number of rows corresponding to the given duration value.
+    - `Investment Value`: Represents the investment value at the end of each year.
+        - It is calculated as: (`Initial Investment` + `Annual Investment`) + (`Investment Value`(previous year) * `Expected Return %`) 
+        - For the 2nd year onwards, the previous year's `Investment Value` replaces the `Initial investment` in the calculation.
+    - `Interest (Year)`: Represents the interest earned in the current year.
+        - It is calculated as: `Investment Value`(previous year) * `Expected Return %`.
+    - `Total Interest`: Displays the cumulative interest values earned as the `Year` increases.
+        - It is calculated as: `Investment Value` - `Initial Investment` - (`Annual Investment` * `year`)
+    - `Invested Capital`: Represents the total amount of contribution for the given year.
+        - It is calculated as: `Investment Value` - `Total Interest`
 
 - Finally, we add `<Results input={userInput} />` into `App.jsx` to showcase the calculated table results
 
