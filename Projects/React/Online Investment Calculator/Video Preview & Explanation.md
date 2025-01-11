@@ -36,7 +36,7 @@ function App() {
 }
 export default App
 ```
-**Step 2: Adding and updating user input **
+**Step 2: Adding and updating user input**
 - Create `UserInput.jsx` that returns a section that takes in user-input in numerical for varibles of `initialInvestment`, `annualInvestment`, `expectedReturn`, and `duration`. 
     - `initialInvestment` represents the amount of money initially invested/deposited at the start of the investment.
     - `annualInvestment` indicates the additional amount of money contributed to the investment annually.
@@ -120,7 +120,7 @@ export function calculateInvestmentResults({
 }
 ```
 
-**Step 4: Display the caluclated results **
+**Step 4: Display the caluclated results**
 - Import the function and objects from `investment.js` into `results.jsx `
 - Then calculate the resultsData and initialInvestment data
 ```jsx
@@ -133,7 +133,7 @@ export default function Results({ input }) { //takes in UserInput values from Ap
 ```
 
 - Create a table to display the results:
-```
+```jsx
  return (
         <table id='result'>
             <thead>
@@ -168,5 +168,5 @@ export default function Results({ input }) { //takes in UserInput values from Ap
 
 - Finally, we add `<Results input={userInput} />` to showcase the calculated table results
 
-- Room for improvement:
+- Additonal improvement:
     - Add `const inputIsValid = userInput.duration >= 1;` and update `{inputIsValid && <Results input={userInput} />}` in `App.jsx` so that the program will not crash if the user input is less than or equal to 0 for duration value. 
