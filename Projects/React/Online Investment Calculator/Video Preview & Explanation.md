@@ -94,7 +94,7 @@ return (
     - Move `import { useState } from 'react';` from `UserInput.jsx` to `App.jsx` also
     - In `App.jsx`, update `<UserInput />` to `<UserInput userInput={userInput} onChange={handleChange} />` so that values in userInput / handleChange gets passed as a value to `Userinput.jsx` component 
 
-- Create an `investment.js` file that has these 4 varibles for calculation:
+- Create an `investment.js` file that has these 4 variables for calculation:
 ```jsx
 //investment.js
 export function calculateInvestmentResults({
