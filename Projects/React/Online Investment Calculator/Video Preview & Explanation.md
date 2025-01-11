@@ -156,7 +156,7 @@ export default function Results({ input }) { //takes in UserInput values from Ap
                             {/* Use formatter.format() to display the investment value to 2 decimal places */}
                             <td>{formatter.format(yearData.valueEndOfYear)}</td>
                             <td>{formatter.format(yearData.interest)}</td>
-                            <td>{formatter.format(yearData.totalInterest)}</td>
+                            <td>{formatter.format(totalInterest)}</td>
                             <td>{formatter.format(totalAmountInvested)}</td> {/* Ensure only necessary columns */}
                         </tr>
                     );
