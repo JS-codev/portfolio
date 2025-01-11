@@ -2,7 +2,7 @@ import { calculateInvestmentResults, formatter } from '../util/investment.js'; /
 
 export default function Results({ input }) { //takes in UserInput values from App.jsx
     const resultsData = calculateInvestmentResults(input); //place values into investment.js to calculates investment results
-    const initialInvestment = resultsData[0].valueEndOfYear - resultsData[0].interest - resultsData[0].annualInvestment; 
+    const initialInvestment = resultsData[0].valueEndOfYear - resultsData[0].interest - resultsData[0].annualInvestment; //Calculates & find the user's first input for initial investment for later calculations
 
     //Table results 
     return (
