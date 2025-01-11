@@ -166,7 +166,7 @@ export default function Results({ input }) { //takes in UserInput values from Ap
     );
 ```
 
-- Finally, we add `<Results input={userInput} />` to showcase the calculated table results
+- Finally, we add `<Results input={userInput} />` into `App.jsx` to showcase the calculated table results
 
 - Additonal improvement:
     - Add `const inputIsValid = userInput.duration >= 1;` and update `{inputIsValid && <Results input={userInput} />}` in `App.jsx` so that the program will not crash if the user input is less than or equal to 0 for duration value. 
