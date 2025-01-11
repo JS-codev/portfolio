@@ -42,7 +42,7 @@ export default App
     - `annualInvestment` indicates the additional amount of money contributed to the investment annually.
     - `expectedReturn` represents the  expected annual rate of return on the investment (%)
     - `duration` represents the duration of the investment in years.
-- Create variable `handleInputChange` where it allows user to update the values in the 4 variable input fields
+- Create variable `handleInputChange` where it allows user to input values in the 4 variable input fields
 
 ```jsx
 //UserInput.jsx
@@ -56,7 +56,7 @@ export default function UserInput({ onChange }) {
         duration: '12'
     });
 
-    //Allows user to update values in the 4 variable fields (UI element input box)
+    //Allows user to input values in the 4 variable fields (UI element input box)
     const handleInputChange = (field, value) => {
     // Handle user input change and call onChange if it's passed
     const updatedInput = { ...userInput, [field]: value };
