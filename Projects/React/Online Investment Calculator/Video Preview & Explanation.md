@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/9345ad15-cd75-489e-a50d-6cfee07751eb
 - `index.css` file contains `#header` style that has `text-align: center`
 `index.css` contains global styles that can be applied to define overall styling of an app. This styling for elements includes body, headings, link, container styles. 
 
-```js title:Header.jsx
+```js filename=Header.jsx
 import logo from '../assets/investment-calculator-logo.png';
 export default function Header() {
     return (
@@ -22,10 +22,9 @@ export default function Header() {
 ```
 
 - We then add Header file component into `App.jsx` for it to open
-App.jsx is the top-level component in React.
-It defines the layout of an app and includes other components that make up the user interface (UI).
+  - App.jsx is the top-level component in React. It defines the layout of an app and includes other components that make up the user interface (UI).
 
-```js title:Header.jsx
+```js filename=App.jsx
 import Header from './components/Header.jsx';
 function App() {
     return (    
@@ -42,7 +41,7 @@ export default App
     - `duration` represents the duration of the investment in years.
 
 
-```
+```jsx filename="UserInput.jsx"
 export default function UserInput({ onChange }) {
     // Local state to manage user inputs (if not managed by parent)
     const [userInput, setUserInput] = useState({
