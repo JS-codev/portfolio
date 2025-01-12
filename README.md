@@ -4,7 +4,7 @@
 
 ## Education
 - Diploma in Advance and Digital Manufacturing	| Nanyang Polytechnic (_April 2020 – April 2023_)	 			        		
-  - **Distinctions(A\*):** Calculus, Probability & Statistic, Differential Equations & Series
+  - **Distinctions:** Calculus, Probability & Statistic, Differential Equations & Series
   - **Related Coursework:** Python/Arduino Programming, Data Science, Analytics & Artificial Int, Business Analytics Primer, Importance of Cyber Security, Statics with mechanical analysis, math
 
 ## Work Experience
