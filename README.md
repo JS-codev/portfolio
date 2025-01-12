@@ -23,9 +23,8 @@
 - Experienced in Stable diffusion AI & machine learning (Scikit-Learn)
 
 ## Major Projects
---- 
 #### [React Project on Investment Calculator](https://github.com/JS-codev/portfolio/blob/main/Projects/React/Online%20Investment%20Calculator/Video%20Preview%20%26%20Explanation.md)
-#### [Data Science on predicting price of used car with Machine Learning (Scikit-learn)] (https://github.com/JS-codev/portfolio/blob/main/Projects/Data%20Science/Machine%20Learning/Practical%20examples/Predicting%20price%20of%20used%20cars/Predict%20the%20price%20of%20a%20used%20car.ipynb)
+#### [Data Science on predicting price of used car with Machine Learning (Scikit-learn)](https://github.com/JS-codev/portfolio/blob/main/Projects/Data%20Science/Machine%20Learning/Practical%20examples/Predicting%20price%20of%20used%20cars/Predict%20the%20price%20of%20a%20used%20car.ipynb)
 #### [Data analytics on Coffeeshop relationship with customers](https://github.com/JS-codev/portfolio/blob/main/Projects/Data%20Analytics%20on%20CofficeShop%20relationship%20with%20customers/CoffeeShop_code_Analysis.ipynb)
 #### [Arduino Automatic Monitoring System with SQL](https://github.com/JS-codev/portfolio/blob/main/Projects/NYP%20Projects/Arduino%20automatic%20monitoring%20system%20with%20SQL/Overview.md)
 
