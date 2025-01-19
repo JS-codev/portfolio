@@ -28,3 +28,8 @@
 - **Independable:** Able to work efficiently with minimal supervision.
 - Experienced in Stable diffusion AI & machine learning (Scikit-Learn)
 - **High analytical thinking** (Distinctions in Calculus, Probability & Statistics, and Differential Equations & Series during NYP)
+
+## Udemy Courses Completed:
+1. [Beginner's Guide to Data & Data Analytics (By SColby Schrauth, Serge LeBlanc)](https://github.com/JS-codev/portfolio/blob/main/Projects/Udemy%20Certification/Beginner's%20Guide%20to%20Data%20%26%20Data%20Analytics.pdf)
+2. [Complete Data Science Bootcamp 2025 (by 365 Carreers)](https://github.com/JS-codev/portfolio/blob/main/Projects/Udemy%20Certification/Complete_Data_Science_Bootcamp.pdf)
+3. [C++ Data Structures & Algorithms + LEETCODE Exercises (by Scott Barrett)](https://github.com/JS-codev/portfolio/blob/main/Projects/Udemy%20Certification/C%2B%2B%20Data%20Structures%20%26%20Algorithms%20%2B%20LEETCODE%20Exercises%20(by%20Scott%20Barrett).pdf)
