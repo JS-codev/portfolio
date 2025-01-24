@@ -1,8 +1,8 @@
 
 https://github.com/user-attachments/assets/32b51621-ec40-4d6c-95ef-ec73d2001bae
 
-I've use AWS S3 to host my static website, which you can check it out here: http://online-investment-calculator.s3-website-ap-southeast-1.amazonaws.com
-
+- I utilized  AWS S3 to host my static website, which you can check it out here: http://online-investment-calculator.s3-website-ap-southeast-1.amazonaws.com
+---
 
 **Explanation:**
 
