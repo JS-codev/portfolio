@@ -2,7 +2,7 @@
 #define OBJECT_H
 
 #define STB_IMAGE_IMPLEMENTATION 
-#include "../../include/config.h"
+#include "config.h"
 #include "shader.h"
 #include "camera.h"
 #include <math.h>

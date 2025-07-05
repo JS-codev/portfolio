@@ -1,6 +1,3 @@
-// To run this code: cd backup/learning > F1
-// g++ -g -std=c++17 -I../../include -L../../include/lib glad.c window.cpp LEARN.cpp -lglfw3dll -lopengl32 -o ..\bin\run.exe && ..\bin\run.exe
-
 #include <iostream>
 #include "window.h"
 #include "shader.h"
