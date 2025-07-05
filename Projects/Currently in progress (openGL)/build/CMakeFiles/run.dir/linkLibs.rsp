@@ -1,1 +1,1 @@
-  -LC:/Workflow/Repo/portfolio/Projects/OpenGL/lib  -lglfw3dll -lopengl32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+  -LC:/Workflow/Repo/PORTFO~1/Projects/CURREN~1/lib  -lglfw3dll -lopengl32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

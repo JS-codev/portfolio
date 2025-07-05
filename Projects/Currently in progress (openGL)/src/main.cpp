@@ -1,8 +1,9 @@
-// To run:
-// g++ -g -std=c++17 -I../../include -L../../lib glad.c window.cpp main.cpp -lglfw3dll -lopengl32 -o ..\bin\run.exe && ..\bin\run.exe
+// To run: cd src > 
+// g++ -g -std=c++17 -I../include -L../lib glad.c Window.cpp main.cpp Mesh.cpp Shader.cpp Camera.cpp -lglfw3dll -lopengl32 -o ../build/run.exe && ../build/run.exe
+
 
 #define STB_IMAGE_IMPLEMENTATION
-#include "config.h"
+#include "../include/config.h"
 
 const float toRadians = 3.14159265f / 180.0f;
 

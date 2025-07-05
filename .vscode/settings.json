@@ -1,5 +1,12 @@
 {
+    "terminal.integrated.profiles.windows": {
+        "Git Bash": {
+            "path": "C:\\Workflow\\Git\\bin\\bash.exe",
+            "args": ["--login", "-i"]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
     "files.associations": {
-        "iostream": "cpp"
+        "cstring": "cpp"
     }
 }

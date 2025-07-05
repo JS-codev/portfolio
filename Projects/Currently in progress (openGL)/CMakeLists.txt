@@ -7,14 +7,16 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(run 
     src/main.cpp
     src/glad.c
-    src/src2/Camera.cpp
-    src/src2/Mesh.cpp
-    src/src2/Shader.cpp
-    src/src2/Window.cpp
+    src/Camera.cpp
+    src/Mesh.cpp
+    src/Shader.cpp
+    src/Window.cpp
 )
 
+set(CMAKE_BUILD_TYPE Debug)
+
 # Add compiler flags (-g -std=c++17)
-target_compile_options(run PRIVATE -g -std=c++17)
+target_compile_options(run PRIVATE $<$<COMPILE_LANGUAGE:CXX>:-g -std=c++17>)
 
 # Add include directories for GLFW, GLAD, etc.
 target_include_directories(run PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
@@ -32,5 +34,5 @@ add_custom_command(TARGET run POST_BUILD
 )
 # The glfw3.dll must be at the same path as Makefile (build folder)
 
-# cmake .. -G "MinGW Makefiles" once.
+# To run: cd build > cmake .. -G "MinGW Makefiles" 
 # Then make (it will update any saved changes made)
