@@ -1,3 +1,0 @@
-C:/Workflow/Repo/portfolio/projects/Currently in progress (openGL)/build/CMakeFiles/run.dir
-C:/Workflow/Repo/portfolio/projects/Currently in progress (openGL)/build/CMakeFiles/edit_cache.dir
-C:/Workflow/Repo/portfolio/projects/Currently in progress (openGL)/build/CMakeFiles/rebuild_cache.dir

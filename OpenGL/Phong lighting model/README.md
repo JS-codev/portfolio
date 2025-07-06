@@ -40,6 +40,6 @@ To get started with the project, follow these steps:
 - Alternatively, run the following command:
 
    ```bash
-    g++ -g -std=c++17 -Iinclude -Linclude/lib src/glad.c src/window.cpp src/main.cpp -lglfw3dll -lopengl32 -o build\run.exe && build\run.exe
+    g++ -g -std=c++17 -Iinclude -Linclude/lib src/glad.c src/window.cpp src/main.cpp -lglfw3dll -lopengl32 -o build/run.exe && build/run.exe
    ```
    
