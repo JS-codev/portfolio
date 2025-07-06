@@ -19,7 +19,7 @@ GLfloat lastTime = 0.0f;
 void CreateObjects()
 {
     unsigned int indices[] = {
-        0, 2, 5
+        0, 2, 5 // small triangle 
         // 0, 3, 1,
         // 1, 3, 2,
         // 2, 3, 0,
