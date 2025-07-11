@@ -8,6 +8,7 @@
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "files.associations": {
         "cstring": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "vector": "cpp"
     }
 }
