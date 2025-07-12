@@ -1,6 +1,3 @@
-// To run this code: cd backup/learning > F1
-// g++ -g -std=c++17 -Iinclude -Linclude/lib src/glad.c src/window.cpp src/main.cpp -lglfw3dll -lopengl32 -o build/run.exe && build/run.exe
-
 #include <iostream>
 #include <vector>
 #include <glm/glm.hpp>

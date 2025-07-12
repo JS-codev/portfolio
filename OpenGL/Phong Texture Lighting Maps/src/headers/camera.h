@@ -72,7 +72,12 @@ public:
         if (keys[GLFW_KEY_D]) {
             Position += Right * velocity;
         }
-        
+        if (keys[GLFW_KEY_SPACE]) {
+            Position += Up * velocity;
+        }
+        if (keys[GLFW_KEY_LEFT_ALT]) {
+            Position -= Up * velocity;
+        }
         // Shift key as sprint key
         float speed = 2.5f; // base speed
         MovementSpeed = keys[GLFW_KEY_LEFT_SHIFT] ? speed * 2.5f : speed;

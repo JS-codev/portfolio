@@ -13,7 +13,11 @@ The Phong Lighting Model is a widely-used shading technique in computer graphics
 #### Controls
 
 - WASD Movement
-- Hold Shift to sprint
+- Hold Shift - sprint
+- Left Alt - move downward
+- Space - move upward
+- Mouse Movement — Look around
+- ESC - Exit the program
 
 ---
 

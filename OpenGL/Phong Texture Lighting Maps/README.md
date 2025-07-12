@@ -15,6 +15,8 @@ This project demonstrates Phong lighting enhanced with texture-based materials i
 
 - WASD Movement
 - Hold Shift - sprint
+- Left Alt - move downward
+- Space - move upward
 - Mouse Movement — Look around
 - ESC - Exit the program
 
