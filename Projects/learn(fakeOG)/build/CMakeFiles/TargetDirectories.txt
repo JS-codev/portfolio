@@ -1,3 +1,0 @@
-C:/Workflow/Repo/portfolio/projects/learn/build/CMakeFiles/run.dir
-C:/Workflow/Repo/portfolio/projects/learn/build/CMakeFiles/edit_cache.dir
-C:/Workflow/Repo/portfolio/projects/learn/build/CMakeFiles/rebuild_cache.dir
