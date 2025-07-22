@@ -22,7 +22,7 @@
 #### [Data Science on predicting price of used car with Machine Learning (Scikit-learn)](https://github.com/JS-codev/portfolio/blob/main/Projects/Data%20Science/Practical%20projects/Used%20Car%20Price%20Prediction%20(LinearRegression)/Predict%20the%20price%20of%20a%20used%20car.ipynb)
 #### [Data analytics on Coffeeshop relationship with customers](https://github.com/JS-codev/portfolio/blob/main/Projects/Data%20Analytics%20on%20CofficeShop%20relationship%20with%20customers/CoffeeShop_code_Analysis.ipynb)
 #### [Arduino Automatic Monitoring System with SQL](https://github.com/JS-codev/portfolio/blob/main/Projects/NYP%20Projects/Arduino%20automatic%20monitoring%20system%20with%20SQL/Overview.md)
-
+#### [Build Basic solar system simulator without using any game engine](https://github.com/JS-codev/OpenGL/tree/main/Solar%20system)
 ## Traits
 - **Problem solver:** Develop efficient algorithms in leetcode that meet performance requirements (in terms of time and space complexity) like choosing QuickSort over Bubble Sort for better performance
 - **Independable:** Able to work efficiently with minimal supervision.
