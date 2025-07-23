@@ -17,7 +17,7 @@
 - Preparing, organising and storing information in Excel digital format. 
 
 ## Major Projects
-#### [React Project on Investment Calculator](https://github.com/JS-codev/portfolio/blob/main/Projects/React/Online%20Investment%20Calculator/Video%20Preview%20%26%20Explanation.md)
+#### [React Project on Investment Calculator](https://github.com/JS-codev/portfolio/blob/main/React/Online%20Investment%20Calculator/Video%20Preview%20%26%20Explanation.md)
 #### [Data Science on Malware Prediction with KNN model](https://github.com/JS-codev/portfolio/blob/main/Projects/Data%20Science/Practical%20projects/Malware%20Prediction%20(KNN)/Malware_Prediction_using_KNN_(machine_training).ipynb)
 #### [Data Science on predicting price of used car with Machine Learning (Scikit-learn)](https://github.com/JS-codev/portfolio/blob/main/Projects/Data%20Science/Practical%20projects/Used%20Car%20Price%20Prediction%20(LinearRegression)/Predict%20the%20price%20of%20a%20used%20car.ipynb)
 #### [Data analytics on Coffeeshop relationship with customers](https://github.com/JS-codev/portfolio/blob/main/Projects/Data%20Analytics%20on%20CofficeShop%20relationship%20with%20customers/CoffeeShop_code_Analysis.ipynb)
